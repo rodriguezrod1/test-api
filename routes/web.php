@@ -19,5 +19,5 @@ Route::get('/csrf-token', function () {
 
 
 Route::get('/', function () {
-    return ['LottoPlay Api laravel: ' => app()->version()];
+    return ['Test Api: ' => app()->version()];
 });

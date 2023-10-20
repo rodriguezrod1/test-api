@@ -3,7 +3,7 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
-use App\Http\Controllers\v1\AuthController;
+use App\Http\Controllers\v1\ProductsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,15 +21,5 @@ use App\Http\Controllers\v1\AuthController;
 });*/
 
 
-Route::controller(AuthController::class)->prefix('auth')->group(function () {
-    Route::post('login', 'login');
-    Route::group(['middleware' => ['auth:api']], function () {
-        Route::post('logout', 'logout');
-        Route::get('refresh', 'refresh');
-        Route::get('me', 'me');
-    });
-});
+Route::resource('products', ProductsController::class);
 
-
-Route::group(['middleware' => ['auth:api']], function () {
-});
