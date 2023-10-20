@@ -1,0 +1,803 @@
+{
+"draws": [
+	{
+		"id" : 26,
+		"roulettes_id" : 3,
+		"hour_name" : "7:00 PM",
+		"close" : "22:50:00Z",
+		"date_created" : "2017-01-27T23:49:04.299Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 8
+	},
+	{
+		"id" : 31,
+		"roulettes_id" : 6,
+		"hour_name" : "10:00 AM",
+		"close" : "13:50:00Z",
+		"date_created" : "2017-04-07T14:00:57.367Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 1
+	},
+	{
+		"id" : 20,
+		"roulettes_id" : 3,
+		"hour_name" : "10:00 AM",
+		"close" : "13:50:00Z",
+		"date_created" : "2017-01-27T23:16:24.989Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 1
+	},
+	{
+		"id" : 32,
+		"roulettes_id" : 6,
+		"hour_name" : "11:00 AM",
+		"close" : "14:50:00Z",
+		"date_created" : "2017-04-07T14:01:40.957Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 2
+	},
+	{
+		"id" : 21,
+		"roulettes_id" : 3,
+		"hour_name" : "11:00 AM",
+		"close" : "14:50:00Z",
+		"date_created" : "2017-01-27T23:17:43.704Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 2
+	},
+	{
+		"id" : 34,
+		"roulettes_id" : 6,
+		"hour_name" : "1:00 PM",
+		"close" : "16:50:00Z",
+		"date_created" : "2017-04-07T14:05:39.433Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 4
+	},
+	{
+		"id" : 35,
+		"roulettes_id" : 6,
+		"hour_name" : "4:00 PM",
+		"close" : "19:50:00Z",
+		"date_created" : "2017-04-07T14:06:55.180Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 5
+	},
+	{
+		"id" : 23,
+		"roulettes_id" : 3,
+		"hour_name" : "4:00 PM",
+		"close" : "19:50:00Z",
+		"date_created" : "2017-01-27T23:43:14.926Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 5
+	},
+	{
+		"id" : 36,
+		"roulettes_id" : 6,
+		"hour_name" : "5:00 PM",
+		"close" : "20:50:00Z",
+		"date_created" : "2017-04-07T14:07:46.990Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 6
+	},
+	{
+		"id" : 33,
+		"roulettes_id" : 6,
+		"hour_name" : "12:00 PM",
+		"close" : "15:50:00Z",
+		"date_created" : "2017-04-07T14:02:30.314Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 3
+	},
+	{
+		"id" : 25,
+		"roulettes_id" : 3,
+		"hour_name" : "6:00 PM",
+		"close" : "21:50:00Z",
+		"date_created" : "2017-01-27T23:45:22.870Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 7
+	},
+	{
+		"id" : 37,
+		"roulettes_id" : 6,
+		"hour_name" : "6:00 PM",
+		"close" : "21:50:00Z",
+		"date_created" : "2017-04-07T14:09:56.273Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 7
+	},
+	{
+		"id" : 38,
+		"roulettes_id" : 6,
+		"hour_name" : "7:00 PM",
+		"close" : "22:50:00Z",
+		"date_created" : "2017-04-07T14:10:42.997Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 8
+	},
+	{
+		"id" : 27,
+		"roulettes_id" : 3,
+		"hour_name" : "1:00 PM",
+		"close" : "16:50:00Z",
+		"date_created" : "2017-01-27T23:51:53.019Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 4
+	},
+	{
+		"id" : 22,
+		"roulettes_id" : 3,
+		"hour_name" : "12:00 AM",
+		"close" : "15:50:00Z",
+		"date_created" : "2017-01-27T23:18:33.368Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 3
+	},
+	{
+		"id" : 24,
+		"roulettes_id" : 3,
+		"hour_name" : "5:00 PM",
+		"close" : "20:55:00Z",
+		"date_created" : "2017-01-27T23:44:10.042Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 6
+	},
+	{
+		"id" : 66,
+		"roulettes_id" : 9,
+		"hour_name" : "7:00 PM",
+		"close" : "22:55:00Z",
+		"date_created" : "2017-06-23T09:18:50.196Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 8
+	},
+	{
+		"id" : 3,
+		"roulettes_id" : 1,
+		"hour_name" : "12:00 PM",
+		"close" : "15:55:00Z",
+		"date_created" : "2016-12-09T02:00:51.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 3
+	},
+	{
+		"id" : 61,
+		"roulettes_id" : 9,
+		"hour_name" : "12:00 PM",
+		"close" : "15:55:00Z",
+		"date_created" : "2017-06-23T09:15:32.734Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 3
+	},
+	{
+		"id" : 2,
+		"roulettes_id" : 1,
+		"hour_name" : "11:00 AM",
+		"close" : "14:55:00Z",
+		"date_created" : "2016-12-09T02:00:51.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 2
+	},
+	{
+		"id" : 67,
+		"roulettes_id" : 5,
+		"hour_name" : "10:45 AM",
+		"close" : "14:40:00Z",
+		"date_created" : "2017-06-27T17:17:33.162Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 1
+	},
+	{
+		"id" : 4,
+		"roulettes_id" : 1,
+		"hour_name" : "1:00 PM",
+		"close" : "16:55:00Z",
+		"date_created" : "2016-12-09T02:00:51.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 4
+	},
+	{
+		"id" : 68,
+		"roulettes_id" : 5,
+		"hour_name" : "11:45 AM",
+		"close" : "15:40:00Z",
+		"date_created" : "2017-06-27T17:17:53.596Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 2
+	},
+	{
+		"id" : 5,
+		"roulettes_id" : 1,
+		"hour_name" : "04:00 PM",
+		"close" : "19:55:00Z",
+		"date_created" : "2016-12-09T02:00:51.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 5
+	},
+	{
+		"id" : 69,
+		"roulettes_id" : 5,
+		"hour_name" : "3:45 PM",
+		"close" : "19:40:00Z",
+		"date_created" : "2017-06-27T17:19:08.597Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 4
+	},
+	{
+		"id" : 6,
+		"roulettes_id" : 1,
+		"hour_name" : "05:00 PM",
+		"close" : "20:55:00Z",
+		"date_created" : "2016-12-09T02:00:51.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 6
+	},
+	{
+		"id" : 7,
+		"roulettes_id" : 1,
+		"hour_name" : "6:00 PM",
+		"close" : "21:55:00Z",
+		"date_created" : "2016-12-09T02:00:51.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 7
+	},
+	{
+		"id" : 39,
+		"roulettes_id" : 7,
+		"hour_name" : "10:00 AM",
+		"close" : "13:55:00Z",
+		"date_created" : "2017-06-07T16:37:03.443Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 1
+	},
+	{
+		"id" : 40,
+		"roulettes_id" : 7,
+		"hour_name" : "11:00 AM",
+		"close" : "14:55:00Z",
+		"date_created" : "2017-06-07T16:37:24.636Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 2
+	},
+	{
+		"id" : 41,
+		"roulettes_id" : 7,
+		"hour_name" : "12:00 AM",
+		"close" : "15:55:00Z",
+		"date_created" : "2017-06-07T16:37:45.895Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 3
+	},
+	{
+		"id" : 42,
+		"roulettes_id" : 7,
+		"hour_name" : "1:00 PM",
+		"close" : "16:55:00Z",
+		"date_created" : "2017-06-07T16:38:31.627Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 4
+	},
+	{
+		"id" : 43,
+		"roulettes_id" : 7,
+		"hour_name" : "2:00 PM",
+		"close" : "17:55:00Z",
+		"date_created" : "2017-06-07T16:39:23.074Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 5
+	},
+	{
+		"id" : 44,
+		"roulettes_id" : 7,
+		"hour_name" : "3:00 PM",
+		"close" : "18:55:00Z",
+		"date_created" : "2017-06-07T16:40:05.953Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 6
+	},
+	{
+		"id" : 45,
+		"roulettes_id" : 7,
+		"hour_name" : "4:00 PM",
+		"close" : "19:55:00Z",
+		"date_created" : "2017-06-07T16:40:54.848Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 7
+	},
+	{
+		"id" : 46,
+		"roulettes_id" : 7,
+		"hour_name" : "5:00 PM",
+		"close" : "20:55:00Z",
+		"date_created" : "2017-06-07T16:41:28.796Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 8
+	},
+	{
+		"id" : 47,
+		"roulettes_id" : 7,
+		"hour_name" : "6:00 PM",
+		"close" : "21:55:00Z",
+		"date_created" : "2017-06-07T16:44:24.542Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 9
+	},
+	{
+		"id" : 48,
+		"roulettes_id" : 7,
+		"hour_name" : "7:00 PM",
+		"close" : "22:55:00Z",
+		"date_created" : "2017-06-07T16:44:54.328Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 10
+	},
+	{
+		"id" : 49,
+		"roulettes_id" : 8,
+		"hour_name" : "10:00 AM",
+		"close" : "13:55:00Z",
+		"date_created" : "2017-06-07T17:39:55.436Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 1
+	},
+	{
+		"id" : 50,
+		"roulettes_id" : 8,
+		"hour_name" : "11:00 PM",
+		"close" : "14:55:00Z",
+		"date_created" : "2017-06-07T17:40:13.331Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 2
+	},
+	{
+		"id" : 51,
+		"roulettes_id" : 8,
+		"hour_name" : "12:00 PM",
+		"close" : "15:55:00Z",
+		"date_created" : "2017-06-07T17:40:36.238Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 3
+	},
+	{
+		"id" : 52,
+		"roulettes_id" : 8,
+		"hour_name" : "1:00 PM",
+		"close" : "16:55:00Z",
+		"date_created" : "2017-06-07T17:41:26.251Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 4
+	},
+	{
+		"id" : 53,
+		"roulettes_id" : 8,
+		"hour_name" : "2:00 PM",
+		"close" : "17:55:00Z",
+		"date_created" : "2017-06-07T18:06:22.122Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 5
+	},
+	{
+		"id" : 54,
+		"roulettes_id" : 8,
+		"hour_name" : "3:00 PM",
+		"close" : "18:55:00Z",
+		"date_created" : "2017-06-07T18:06:53.287Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 6
+	},
+	{
+		"id" : 55,
+		"roulettes_id" : 8,
+		"hour_name" : "4:00 PM",
+		"close" : "19:55:00Z",
+		"date_created" : "2017-06-07T18:07:16.767Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 7
+	},
+	{
+		"id" : 56,
+		"roulettes_id" : 8,
+		"hour_name" : "5:00 PM",
+		"close" : "20:55:00Z",
+		"date_created" : "2017-06-07T18:07:50.492Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 8
+	},
+	{
+		"id" : 57,
+		"roulettes_id" : 8,
+		"hour_name" : "6:00 PM",
+		"close" : "21:55:00Z",
+		"date_created" : "2017-06-07T18:08:13.143Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 9
+	},
+	{
+		"id" : 58,
+		"roulettes_id" : 8,
+		"hour_name" : "7:00 PM",
+		"close" : "22:55:00Z",
+		"date_created" : "2017-06-07T18:08:47.246Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 10
+	},
+	{
+		"id" : 29,
+		"roulettes_id" : 5,
+		"hour_name" : "4:45 PM",
+		"close" : "20:40:00Z",
+		"date_created" : "2017-03-27T19:06:37.714Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 5
+	},
+	{
+		"id" : 9,
+		"roulettes_id" : 2,
+		"hour_name" : "9:30 AM",
+		"close" : "13:25:00Z",
+		"date_created" : "2016-12-09T02:26:01.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 1
+	},
+	{
+		"id" : 10,
+		"roulettes_id" : 2,
+		"hour_name" : "10:30 AM",
+		"close" : "14:25:00Z",
+		"date_created" : "2016-12-09T02:26:01.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 2
+	},
+	{
+		"id" : 12,
+		"roulettes_id" : 2,
+		"hour_name" : "12:30 PM",
+		"close" : "16:25:00Z",
+		"date_created" : "2016-12-09T02:26:01.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 4
+	},
+	{
+		"id" : 70,
+		"roulettes_id" : 5,
+		"hour_name" : "6:45 PM",
+		"close" : "22:40:00Z",
+		"date_created" : "2017-06-27T17:21:36.842Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 6
+	},
+	{
+		"id" : 11,
+		"roulettes_id" : 2,
+		"hour_name" : "11:30 AM",
+		"close" : "15:25:00Z",
+		"date_created" : "2016-12-09T02:26:01.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 3
+	},
+	{
+		"id" : 30,
+		"roulettes_id" : 5,
+		"hour_name" : "7:45 PM",
+		"close" : "23:40:00Z",
+		"date_created" : "2017-03-27T19:07:17.178Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 7
+	},
+	{
+		"id" : 13,
+		"roulettes_id" : 2,
+		"hour_name" : "01:30 PM",
+		"close" : "17:25:00Z",
+		"date_created" : "2016-12-09T02:26:01.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 5
+	},
+	{
+		"id" : 14,
+		"roulettes_id" : 2,
+		"hour_name" : "03:30 PM",
+		"close" : "19:25:00Z",
+		"date_created" : "2016-12-09T02:26:01.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 6
+	},
+	{
+		"id" : 15,
+		"roulettes_id" : 2,
+		"hour_name" : "04:30 PM",
+		"close" : "20:25:00Z",
+		"date_created" : "2016-12-09T02:26:01.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 7
+	},
+	{
+		"id" : 16,
+		"roulettes_id" : 2,
+		"hour_name" : "05:30 PM",
+		"close" : "21:25:00Z",
+		"date_created" : "2016-12-09T02:26:01.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 8
+	},
+	{
+		"id" : 17,
+		"roulettes_id" : 2,
+		"hour_name" : "06:30 PM",
+		"close" : "22:25:00Z",
+		"date_created" : "2016-12-09T02:26:01.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 9
+	},
+	{
+		"id" : 18,
+		"roulettes_id" : 2,
+		"hour_name" : "07:30 PM",
+		"close" : "23:25:00Z",
+		"date_created" : "2016-12-09T02:26:01.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 10
+	},
+	{
+		"id" : 59,
+		"roulettes_id" : 9,
+		"hour_name" : "10:00 AM",
+		"close" : "13:55:00Z",
+		"date_created" : "2017-06-23T09:14:37.742Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 1
+	},
+	{
+		"id" : 60,
+		"roulettes_id" : 9,
+		"hour_name" : "11:00 AM",
+		"close" : "14:55:00Z",
+		"date_created" : "2017-06-23T09:15:12.254Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 2
+	},
+	{
+		"id" : 62,
+		"roulettes_id" : 9,
+		"hour_name" : "1:00 PM",
+		"close" : "16:55:00Z",
+		"date_created" : "2017-06-23T09:16:11.345Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 4
+	},
+	{
+		"id" : 63,
+		"roulettes_id" : 9,
+		"hour_name" : "4:00 PM",
+		"close" : "19:55:00Z",
+		"date_created" : "2017-06-23T09:17:00.543Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 5
+	},
+	{
+		"id" : 64,
+		"roulettes_id" : 9,
+		"hour_name" : "5:00 PM",
+		"close" : "20:55:00Z",
+		"date_created" : "2017-06-23T09:17:46.490Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 6
+	},
+	{
+		"id" : 65,
+		"roulettes_id" : 9,
+		"hour_name" : "6:00 PM",
+		"close" : "21:55:00Z",
+		"date_created" : "2017-06-23T09:18:29.585Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 7
+	},
+	{
+		"id" : 1,
+		"roulettes_id" : 1,
+		"hour_name" : "10:00 AM",
+		"close" : "13:55:00Z",
+		"date_created" : "2016-12-09T02:00:51.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 1
+	},
+	{
+		"id" : 71,
+		"roulettes_id" : 7,
+		"hour_name" : "8:00 PM",
+		"close" : "23:55:00Z",
+		"date_created" : "2017-07-26T21:35:59.602Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 11
+	},
+	{
+		"id" : 8,
+		"roulettes_id" : 1,
+		"hour_name" : "07:00 PM",
+		"close" : "01:55:00Z",
+		"date_created" : "2016-12-09T02:00:51.000Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 8
+	},
+	{
+		"id" : 28,
+		"roulettes_id" : 5,
+		"hour_name" : "12:45 AM",
+		"close" : "16:40:00Z",
+		"date_created" : "2017-03-27T19:05:47.710Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 3
+	},
+	{
+		"id" : 72,
+		"roulettes_id" : 10,
+		"hour_name" : "9:00 AM",
+		"close" : "12:50:00Z",
+		"date_created" : "2017-11-01T00:14:12.409Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 1
+	},
+	{
+		"id" : 74,
+		"roulettes_id" : 10,
+		"hour_name" : "11:00 AM",
+		"close" : "14:50:00Z",
+		"date_created" : "2017-11-01T00:15:27.370Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 3
+	},
+	{
+		"id" : 75,
+		"roulettes_id" : 10,
+		"hour_name" : "12:00 PM",
+		"close" : "15:50:00Z",
+		"date_created" : "2017-11-01T00:20:18.905Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 4
+	},
+	{
+		"id" : 76,
+		"roulettes_id" : 10,
+		"hour_name" : "1:00 PM",
+		"close" : "16:55:00Z",
+		"date_created" : "2017-11-01T00:21:38.416Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 5
+	},
+	{
+		"id" : 77,
+		"roulettes_id" : 10,
+		"hour_name" : "4:00 PM",
+		"close" : "19:50:00Z",
+		"date_created" : "2017-11-01T00:22:35.065Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 6
+	},
+	{
+		"id" : 78,
+		"roulettes_id" : 10,
+		"hour_name" : "5:00 PM",
+		"close" : "20:50:00Z",
+		"date_created" : "2017-11-01T00:23:08.993Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 7
+	},
+	{
+		"id" : 73,
+		"roulettes_id" : 10,
+		"hour_name" : "10:00 AM",
+		"close" : "13:50:00Z",
+		"date_created" : "2017-11-01T00:14:47.527Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 2
+	},
+	{
+		"id" : 79,
+		"roulettes_id" : 10,
+		"hour_name" : "6:00 PM",
+		"close" : "21:50:00Z",
+		"date_created" : "2017-11-01T00:29:31.142Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 8
+	},
+	{
+		"id" : 80,
+		"roulettes_id" : 10,
+		"hour_name" : "7:00 PM",
+		"close" : "22:50:00Z",
+		"date_created" : "2017-11-01T00:30:05.886Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 9
+	},
+	{
+		"id" : 81,
+		"roulettes_id" : 10,
+		"hour_name" : "8:00 PM",
+		"close" : "23:50:00Z",
+		"date_created" : "2017-11-01T00:30:35.505Z",
+		"date_update" : null,
+		"status" : true,
+		"orden" : 10
+	}
+]}

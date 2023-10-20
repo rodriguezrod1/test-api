@@ -1,0 +1,93 @@
+{
+"roulettes": [
+	{
+		"id" : 3,
+		"name" : "FRUTA ACTIVA",
+		"payment" : 30,
+		"date_created" : "2017-01-27T15:08:23.097Z",
+		"date_update" : null,
+		"status" : true,
+		"name_corto" : "F.A.",
+		"ruta_twitter" : "tufrutactiva"
+	},
+	{
+		"id" : 5,
+		"name" : "ANIMALITOS REY ANZOáTEGUI",
+		"payment" : 26,
+		"date_created" : "2017-03-27T18:55:46.178Z",
+		"date_update" : null,
+		"status" : true,
+		"name_corto" : "ARA",
+		"ruta_twitter" : "ReyAnzoategui"
+	},
+	{
+		"id" : 6,
+		"name" : "TROPICAL ACTIVO",
+		"payment" : 60,
+		"date_created" : "2017-04-07T13:59:40.555Z",
+		"date_update" : null,
+		"status" : true,
+		"name_corto" : "T.A.",
+		"ruta_twitter" : "tropicalactivo1"
+	},
+	{
+		"id" : 2,
+		"name" : "LA GRAN RULETA",
+		"payment" : 32,
+		"date_created" : "2016-12-09T00:24:09.000Z",
+		"date_update" : null,
+		"status" : true,
+		"name_corto" : "L.G.R.",
+		"ruta_twitter" : "LaGranRuleta"
+	},
+	{
+		"id" : 8,
+		"name" : "CABALLO NEGRO",
+		"payment" : 30,
+		"date_created" : "2017-06-07T17:38:36.194Z",
+		"date_update" : null,
+		"status" : true,
+		"name_corto" : "C.N",
+		"ruta_twitter" : "caballonegro121"
+	},
+	{
+		"id" : 1,
+		"name" : "LOTTO ACTIVO",
+		"payment" : 30,
+		"date_created" : "2016-12-09T00:24:09.000Z",
+		"date_update" : null,
+		"status" : true,
+		"name_corto" : "L.A.",
+		"ruta_twitter" : "lottoactivo"
+	},
+	{
+		"id" : 7,
+		"name" : "CARACA ACTIVA",
+		"payment" : 30,
+		"date_created" : "2017-06-07T16:33:02.219Z",
+		"date_update" : null,
+		"status" : true,
+		"name_corto" : "A.C",
+		"ruta_twitter" : "animalcaraca"
+	},
+	{
+		"id" : 9,
+		"name" : "RULETA ACTIVA",
+		"payment" : 27,
+		"date_created" : "2017-06-23T09:12:56.657Z",
+		"date_update" : null,
+		"status" : true,
+		"name_corto" : "R.A",
+		"ruta_twitter" : "ruletactivave"
+	},
+	{
+		"id" : 10,
+		"name" : "NUMERITOS",
+		"payment" : 10,
+		"date_created" : "2017-10-31T19:02:35.354Z",
+		"date_update" : null,
+		"status" : true,
+		"name_corto" : "NM",
+		"ruta_twitter" : "numeritoactivo"
+	}
+]}

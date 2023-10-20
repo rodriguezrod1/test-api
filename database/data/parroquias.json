@@ -1,0 +1,5628 @@
+{
+"parroquias": [
+	{
+		"id" : 1,
+		"name" : "ALTAGRACIA",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 2,
+		"name" : "ANTÍMANO",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 3,
+		"name" : "CANDELARIA",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 4,
+		"name" : "CARICUAO",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 5,
+		"name" : "CATEDRAL",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 6,
+		"name" : "COCHE",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 7,
+		"name" : "EL JUNQUITO",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 8,
+		"name" : "EL PARAÍSO",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 9,
+		"name" : "EL RECREO",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 10,
+		"name" : "EL VALLE",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 11,
+		"name" : "LA PASTORA",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 12,
+		"name" : "LA VEGA",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 13,
+		"name" : "MACARAO",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 14,
+		"name" : "SAN AGUSTÍN",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 15,
+		"name" : "SAN BERNARDINO",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 16,
+		"name" : "SAN JOSÉ",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 17,
+		"name" : "SAN JUAN",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 18,
+		"name" : "SAN PEDRO",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 19,
+		"name" : "SANTA ROSALÍA",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 20,
+		"name" : "SANTA TERESA",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 21,
+		"name" : "SUCRE",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 22,
+		"name" : "23 DE ENERO",
+		"municipio_id" : 104
+	},
+	{
+		"id" : 23,
+		"name" : "CAPITAL ALTO ORINOCO",
+		"municipio_id" : 4
+	},
+	{
+		"id" : 24,
+		"name" : "HUACHAMACARE",
+		"municipio_id" : 4
+	},
+	{
+		"id" : 25,
+		"name" : "MARAWAKA",
+		"municipio_id" : 4
+	},
+	{
+		"id" : 26,
+		"name" : "MAVACA",
+		"municipio_id" : 4
+	},
+	{
+		"id" : 27,
+		"name" : "SIERRA PARIMA",
+		"municipio_id" : 4
+	},
+	{
+		"id" : 28,
+		"name" : "UCATA",
+		"municipio_id" : 6
+	},
+	{
+		"id" : 29,
+		"name" : "YAPACANA",
+		"municipio_id" : 6
+	},
+	{
+		"id" : 30,
+		"name" : "CANAME",
+		"municipio_id" : 6
+	},
+	{
+		"id" : 31,
+		"name" : "FERNANDO GIRÓN TOVAR",
+		"municipio_id" : 5
+	},
+	{
+		"id" : 32,
+		"name" : "LUIS ALBERTO GÓMEZ",
+		"municipio_id" : 5
+	},
+	{
+		"id" : 33,
+		"name" : "PARHUEÑA",
+		"municipio_id" : 5
+	},
+	{
+		"id" : 34,
+		"name" : "PLATANILLAL",
+		"municipio_id" : 5
+	},
+	{
+		"id" : 35,
+		"name" : "SAMARIAPO",
+		"municipio_id" : 3
+	},
+	{
+		"id" : 36,
+		"name" : "SIPAPO",
+		"municipio_id" : 3
+	},
+	{
+		"id" : 37,
+		"name" : "MUNDUAPO",
+		"municipio_id" : 3
+	},
+	{
+		"id" : 38,
+		"name" : "GUAYAPO",
+		"municipio_id" : 3
+	},
+	{
+		"id" : 39,
+		"name" : "VICTORINO",
+		"municipio_id" : 2
+	},
+	{
+		"id" : 40,
+		"name" : "COMUNIDAD",
+		"municipio_id" : 2
+	},
+	{
+		"id" : 41,
+		"name" : "ALTO VENTUARI",
+		"municipio_id" : 1
+	},
+	{
+		"id" : 42,
+		"name" : "MEDIO VENTUARI",
+		"municipio_id" : 1
+	},
+	{
+		"id" : 43,
+		"name" : "BAJO VENTUARI",
+		"municipio_id" : 1
+	},
+	{
+		"id" : 44,
+		"name" : "RÍO NEGRO",
+		"municipio_id" : 7
+	},
+	{
+		"id" : 45,
+		"name" : "SOLANO",
+		"municipio_id" : 7
+	},
+	{
+		"id" : 46,
+		"name" : "CASIQUIARE",
+		"municipio_id" : 7
+	},
+	{
+		"id" : 47,
+		"name" : "COCUY",
+		"municipio_id" : 7
+	},
+	{
+		"id" : 48,
+		"name" : "ANACO ",
+		"municipio_id" : 17
+	},
+	{
+		"id" : 49,
+		"name" : "SAN JOAQUÍN",
+		"municipio_id" : 17
+	},
+	{
+		"id" : 50,
+		"name" : "ARAGUA",
+		"municipio_id" : 11
+	},
+	{
+		"id" : 51,
+		"name" : "CACHIPO",
+		"municipio_id" : 11
+	},
+	{
+		"id" : 52,
+		"name" : "FERNANDO DE PEÑALVER",
+		"municipio_id" : 12
+	},
+	{
+		"id" : 53,
+		"name" : "SAN MIGUEL",
+		"municipio_id" : 12
+	},
+	{
+		"id" : 54,
+		"name" : "SUCRE",
+		"municipio_id" : 12
+	},
+	{
+		"id" : 55,
+		"name" : "VALLE DE GUANAPE",
+		"municipio_id" : 19
+	},
+	{
+		"id" : 56,
+		"name" : "SANTA BÁRBARA",
+		"municipio_id" : 19
+	},
+	{
+		"id" : 57,
+		"name" : "FRANCISCO DE MIRANDA",
+		"municipio_id" : 13
+	},
+	{
+		"id" : 58,
+		"name" : "ATAPIRIRE",
+		"municipio_id" : 13
+	},
+	{
+		"id" : 59,
+		"name" : "BOCA DEL PAO",
+		"municipio_id" : 13
+	},
+	{
+		"id" : 60,
+		"name" : "EL PAO",
+		"municipio_id" : 13
+	},
+	{
+		"id" : 61,
+		"name" : "MÚCURA",
+		"municipio_id" : 13
+	},
+	{
+		"id" : 62,
+		"name" : "GUANTA",
+		"municipio_id" : 18
+	},
+	{
+		"id" : 63,
+		"name" : "CHORRERÓN",
+		"municipio_id" : 18
+	},
+	{
+		"id" : 64,
+		"name" : "INDEPENDENCIA",
+		"municipio_id" : 20
+	},
+	{
+		"id" : 65,
+		"name" : "MAMO",
+		"municipio_id" : 20
+	},
+	{
+		"id" : 66,
+		"name" : "PUERTO LA CRUZ",
+		"municipio_id" : 8
+	},
+	{
+		"id" : 67,
+		"name" : "POZUELOS",
+		"municipio_id" : 8
+	},
+	{
+		"id" : 68,
+		"name" : "ONOTO",
+		"municipio_id" : 22
+	},
+	{
+		"id" : 69,
+		"name" : "SAN PABLO",
+		"municipio_id" : 22
+	},
+	{
+		"id" : 70,
+		"name" : "JOSÉ GREGORIO MONAGAS",
+		"municipio_id" : 10
+	},
+	{
+		"id" : 71,
+		"name" : "PIAR",
+		"municipio_id" : 10
+	},
+	{
+		"id" : 72,
+		"name" : "SAN DIEGO DE CABRUTICA",
+		"municipio_id" : 10
+	},
+	{
+		"id" : 73,
+		"name" : "SANTA CLARA",
+		"municipio_id" : 10
+	},
+	{
+		"id" : 74,
+		"name" : "UVERITO",
+		"municipio_id" : 10
+	},
+	{
+		"id" : 75,
+		"name" : "ZUATA",
+		"municipio_id" : 10
+	},
+	{
+		"id" : 76,
+		"name" : "CAPITAL LIBERTAD",
+		"municipio_id" : 26
+	},
+	{
+		"id" : 77,
+		"name" : "EL CARITO",
+		"municipio_id" : 26
+	},
+	{
+		"id" : 78,
+		"name" : "SANTA INÉS",
+		"municipio_id" : 26
+	},
+	{
+		"id" : 79,
+		"name" : "CAPITAL CLARINES",
+		"municipio_id" : 9
+	},
+	{
+		"id" : 80,
+		"name" : "GUANAPE",
+		"municipio_id" : 9
+	},
+	{
+		"id" : 81,
+		"name" : "SABANA DE UCHIRE",
+		"municipio_id" : 9
+	},
+	{
+		"id" : 82,
+		"name" : "CAPITAL PEDRO MARÍA FREITES",
+		"municipio_id" : 14
+	},
+	{
+		"id" : 83,
+		"name" : "LIBERTADOR",
+		"municipio_id" : 14
+	},
+	{
+		"id" : 84,
+		"name" : "SANTA ROSA",
+		"municipio_id" : 14
+	},
+	{
+		"id" : 85,
+		"name" : "URICA",
+		"municipio_id" : 14
+	},
+	{
+		"id" : 86,
+		"name" : "CAPITAL PÍRITU",
+		"municipio_id" : 16
+	},
+	{
+		"id" : 87,
+		"name" : "SAN FRANCISCO",
+		"municipio_id" : 16
+	},
+	{
+		"id" : 88,
+		"name" : "CAPITAL SAN JOSÉ DE GUANIPA",
+		"municipio_id" : 27
+	},
+	{
+		"id" : 89,
+		"name" : "CAPITAL BOCA DE UCHIRE",
+		"municipio_id" : 21
+	},
+	{
+		"id" : 90,
+		"name" : "BOCA DE CHÁVEZ",
+		"municipio_id" : 21
+	},
+	{
+		"id" : 91,
+		"name" : "CAPITAL SANTA ANA ",
+		"municipio_id" : 24
+	},
+	{
+		"id" : 92,
+		"name" : "PUEBLO NUEVO",
+		"municipio_id" : 24
+	},
+	{
+		"id" : 93,
+		"name" : "EL CARMEN",
+		"municipio_id" : 15
+	},
+	{
+		"id" : 94,
+		"name" : "SAN CRISTÓBAL",
+		"municipio_id" : 15
+	},
+	{
+		"id" : 95,
+		"name" : "BERGANTÍN",
+		"municipio_id" : 15
+	},
+	{
+		"id" : 96,
+		"name" : "CAIGUA",
+		"municipio_id" : 15
+	},
+	{
+		"id" : 97,
+		"name" : "EL PILAR",
+		"municipio_id" : 15
+	},
+	{
+		"id" : 98,
+		"name" : "NARICUAL",
+		"municipio_id" : 15
+	},
+	{
+		"id" : 99,
+		"name" : "EDMUNDO BARRIOS",
+		"municipio_id" : 25
+	},
+	{
+		"id" : 100,
+		"name" : "MIGUEL OTERO SILVA ",
+		"municipio_id" : 25
+	},
+	{
+		"id" : 101,
+		"name" : "EL CHAPARRO   ",
+		"municipio_id" : 28
+	},
+	{
+		"id" : 102,
+		"name" : "TOMÁS ALFARO CALATRAVA ",
+		"municipio_id" : 28
+	},
+	{
+		"id" : 103,
+		"name" : "LECHERÍAS ",
+		"municipio_id" : 23
+	},
+	{
+		"id" : 104,
+		"name" : "URBANA ACHAGUAS",
+		"municipio_id" : 34
+	},
+	{
+		"id" : 105,
+		"name" : "APURITO",
+		"municipio_id" : 34
+	},
+	{
+		"id" : 106,
+		"name" : "EL YAGUAL",
+		"municipio_id" : 34
+	},
+	{
+		"id" : 107,
+		"name" : "GUACHARA",
+		"municipio_id" : 34
+	},
+	{
+		"id" : 108,
+		"name" : "MUCURITAS",
+		"municipio_id" : 34
+	},
+	{
+		"id" : 109,
+		"name" : "QUESERAS DEL MEDIO",
+		"municipio_id" : 34
+	},
+	{
+		"id" : 110,
+		"name" : "URBANA BIRUACA",
+		"municipio_id" : 30
+	},
+	{
+		"id" : 111,
+		"name" : "URBANA BRUZUAL",
+		"municipio_id" : 33
+	},
+	{
+		"id" : 112,
+		"name" : "MANTECAL",
+		"municipio_id" : 33
+	},
+	{
+		"id" : 113,
+		"name" : "QUINTERO",
+		"municipio_id" : 33
+	},
+	{
+		"id" : 114,
+		"name" : "RINCÓN HONDO",
+		"municipio_id" : 33
+	},
+	{
+		"id" : 115,
+		"name" : "SAN VICENTE",
+		"municipio_id" : 33
+	},
+	{
+		"id" : 116,
+		"name" : "URBANA GUASDUALITO",
+		"municipio_id" : 29
+	},
+	{
+		"id" : 117,
+		"name" : "ARAMENDI",
+		"municipio_id" : 29
+	},
+	{
+		"id" : 118,
+		"name" : "EL AMPARO",
+		"municipio_id" : 29
+	},
+	{
+		"id" : 119,
+		"name" : "SAN CAMILO",
+		"municipio_id" : 29
+	},
+	{
+		"id" : 120,
+		"name" : "URDANETA",
+		"municipio_id" : 29
+	},
+	{
+		"id" : 121,
+		"name" : "URBANA SAN JUAN DE PAYARA",
+		"municipio_id" : 35
+	},
+	{
+		"id" : 122,
+		"name" : "CODAZZI",
+		"municipio_id" : 35
+	},
+	{
+		"id" : 123,
+		"name" : "CUNAVICHE",
+		"municipio_id" : 35
+	},
+	{
+		"id" : 124,
+		"name" : "URBANA ELORZA",
+		"municipio_id" : 32
+	},
+	{
+		"id" : 125,
+		"name" : "LA TRINIDAD",
+		"municipio_id" : 32
+	},
+	{
+		"id" : 126,
+		"name" : "URBANA SAN FERNANDO",
+		"municipio_id" : 31
+	},
+	{
+		"id" : 127,
+		"name" : "EL RECREO",
+		"municipio_id" : 31
+	},
+	{
+		"id" : 128,
+		"name" : "PEÑALVER",
+		"municipio_id" : 31
+	},
+	{
+		"id" : 129,
+		"name" : "SAN RAFAEL DE ATAMAICA",
+		"municipio_id" : 31
+	},
+	{
+		"id" : 130,
+		"name" : "BOLÍVAR",
+		"municipio_id" : 41
+	},
+	{
+		"id" : 131,
+		"name" : "CAPITAL CAMATAGUA",
+		"municipio_id" : 43
+	},
+	{
+		"id" : 132,
+		"name" : "NO URBANA CARMEN DE CURA",
+		"municipio_id" : 43
+	},
+	{
+		"id" : 133,
+		"name" : "NO URBANA CHORONÍ ",
+		"municipio_id" : 37
+	},
+	{
+		"id" : 134,
+		"name" : "URBANA LAS DELICIAS",
+		"municipio_id" : 37
+	},
+	{
+		"id" : 135,
+		"name" : "URBANA MADRE MARÍA DE SAN JOSÉ",
+		"municipio_id" : 37
+	},
+	{
+		"id" : 136,
+		"name" : "URBANA JOAQUÍN CRESPO",
+		"municipio_id" : 37
+	},
+	{
+		"id" : 137,
+		"name" : "URBANA PEDRO JOSÉ OVALLES",
+		"municipio_id" : 37
+	},
+	{
+		"id" : 138,
+		"name" : "URBANA JOSÉ CASANOVA GODOY",
+		"municipio_id" : 37
+	},
+	{
+		"id" : 139,
+		"name" : "URBANA ANDRÉS ELOY BLANCO",
+		"municipio_id" : 37
+	},
+	{
+		"id" : 140,
+		"name" : "URBANA LOS TACARIGUAS",
+		"municipio_id" : 37
+	},
+	{
+		"id" : 141,
+		"name" : "CAPITAL JOSÉ ANGEL LAMAS",
+		"municipio_id" : 46
+	},
+	{
+		"id" : 142,
+		"name" : "CAPITAL JOSÉ FÉLIX RIBAS",
+		"municipio_id" : 52
+	},
+	{
+		"id" : 143,
+		"name" : "CASTOR NIEVES RÍOS",
+		"municipio_id" : 52
+	},
+	{
+		"id" : 144,
+		"name" : "NO URBANA LAS GUACAMAYAS",
+		"municipio_id" : 52
+	},
+	{
+		"id" : 145,
+		"name" : "NO URBANA PAO DE ZÁRATE",
+		"municipio_id" : 52
+	},
+	{
+		"id" : 146,
+		"name" : "NO URBANA ZUATA",
+		"municipio_id" : 52
+	},
+	{
+		"id" : 147,
+		"name" : "CAPITAL JOSÉ RAFAEL REVENGA",
+		"municipio_id" : 51
+	},
+	{
+		"id" : 148,
+		"name" : "CAPITAL LIBERTADOR",
+		"municipio_id" : 53
+	},
+	{
+		"id" : 149,
+		"name" : "NO URBANA SAN MARTÍN DE PORRES",
+		"municipio_id" : 53
+	},
+	{
+		"id" : 150,
+		"name" : "CAPITAL MARIO BRICEÑO IRAGORRY",
+		"municipio_id" : 50
+	},
+	{
+		"id" : 151,
+		"name" : "CAÑA DE AZÚCAR",
+		"municipio_id" : 50
+	},
+	{
+		"id" : 152,
+		"name" : "CAPITAL SAN CASIMIRO",
+		"municipio_id" : 44
+	},
+	{
+		"id" : 153,
+		"name" : "NO URBANA GÜIRIPA",
+		"municipio_id" : 44
+	},
+	{
+		"id" : 154,
+		"name" : "NO URBANA OLLAS DE CARAMACATE",
+		"municipio_id" : 44
+	},
+	{
+		"id" : 155,
+		"name" : "NO URBANA VALLE MORÍN",
+		"municipio_id" : 44
+	},
+	{
+		"id" : 156,
+		"name" : "CAPITAL SAN SEBASTIÁN",
+		"municipio_id" : 49
+	},
+	{
+		"id" : 157,
+		"name" : "CAPITAL SANTIAGO MARIÑO",
+		"municipio_id" : 48
+	},
+	{
+		"id" : 158,
+		"name" : "NO URBANA ARÉVALO APONTE",
+		"municipio_id" : 48
+	},
+	{
+		"id" : 159,
+		"name" : "NO URBANA CHUAO",
+		"municipio_id" : 48
+	},
+	{
+		"id" : 160,
+		"name" : "NO URBANA SAMÁN DE GÜERE",
+		"municipio_id" : 48
+	},
+	{
+		"id" : 161,
+		"name" : "NO URBANA ALFREDO PACHECO MIRANDA",
+		"municipio_id" : 48
+	},
+	{
+		"id" : 162,
+		"name" : "CAPITAL SANTOS MICHELENA",
+		"municipio_id" : 36
+	},
+	{
+		"id" : 163,
+		"name" : "NO URBANA TIARA",
+		"municipio_id" : 36
+	},
+	{
+		"id" : 164,
+		"name" : "CAPITAL SUCRE",
+		"municipio_id" : 39
+	},
+	{
+		"id" : 165,
+		"name" : "NO URBANA BELLA VISTA",
+		"municipio_id" : 39
+	},
+	{
+		"id" : 166,
+		"name" : "CAPITAL TOVAR",
+		"municipio_id" : 40
+	},
+	{
+		"id" : 167,
+		"name" : "CAPITAL URDANETA",
+		"municipio_id" : 42
+	},
+	{
+		"id" : 168,
+		"name" : "NO URBANA LAS PEÑITAS",
+		"municipio_id" : 42
+	},
+	{
+		"id" : 169,
+		"name" : "NO URBANA SAN FRANCISCO DE CARA",
+		"municipio_id" : 42
+	},
+	{
+		"id" : 170,
+		"name" : "NO URBANA TAGUAY",
+		"municipio_id" : 42
+	},
+	{
+		"id" : 171,
+		"name" : "CAPITAL ZAMORA",
+		"municipio_id" : 38
+	},
+	{
+		"id" : 172,
+		"name" : "NO URBANA MAGDALENO",
+		"municipio_id" : 38
+	},
+	{
+		"id" : 173,
+		"name" : "NO URBANA SAN FRANCISCO DE ASÍS",
+		"municipio_id" : 38
+	},
+	{
+		"id" : 174,
+		"name" : "NO URBANA VALLES DE TUCUTUNEMO",
+		"municipio_id" : 38
+	},
+	{
+		"id" : 175,
+		"name" : "NO URBANA AUGUSTO MIJARES",
+		"municipio_id" : 38
+	},
+	{
+		"id" : 176,
+		"name" : "CAPITAL FRANCISCO LINARES ALCÁNTARA",
+		"municipio_id" : 45
+	},
+	{
+		"id" : 177,
+		"name" : "NO URBANA FRANCISCO DE MIRANDA ",
+		"municipio_id" : 45
+	},
+	{
+		"id" : 178,
+		"name" : "NO URBANA MONSEÑOR FELICIANO GONZÁLEZ",
+		"municipio_id" : 45
+	},
+	{
+		"id" : 179,
+		"name" : "CAPITAL OCUMARE DE LA COSTA DE ORO",
+		"municipio_id" : 47
+	},
+	{
+		"id" : 180,
+		"name" : "SABANETA",
+		"municipio_id" : 64
+	},
+	{
+		"id" : 181,
+		"name" : "RODRÍGUEZ DOMÍNGUEZ",
+		"municipio_id" : 64
+	},
+	{
+		"id" : 182,
+		"name" : "TICOPORO",
+		"municipio_id" : 61
+	},
+	{
+		"id" : 183,
+		"name" : "ANDRÉS BELLO",
+		"municipio_id" : 61
+	},
+	{
+		"id" : 184,
+		"name" : "NICOLÁS PULIDO",
+		"municipio_id" : 61
+	},
+	{
+		"id" : 185,
+		"name" : "ARISMENDI",
+		"municipio_id" : 63
+	},
+	{
+		"id" : 186,
+		"name" : "GUADARRAMA",
+		"municipio_id" : 63
+	},
+	{
+		"id" : 187,
+		"name" : "LA UNIÓN",
+		"municipio_id" : 63
+	},
+	{
+		"id" : 188,
+		"name" : "SAN ANTONIO",
+		"municipio_id" : 63
+	},
+	{
+		"id" : 189,
+		"name" : "BARINAS",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 190,
+		"name" : "ALFREDO ARVELO LARRIVA",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 191,
+		"name" : "SAN SILVESTRE",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 192,
+		"name" : "SANTA INÉS",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 193,
+		"name" : "SANTA LUCÍA",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 194,
+		"name" : "TORUNOS",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 195,
+		"name" : "EL CARMEN",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 196,
+		"name" : "RÓMULO BETANCOURT",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 197,
+		"name" : "CORAZÓN DE JESÚS",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 198,
+		"name" : "RAMÓN IGNACIO MÉNDEZ",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 199,
+		"name" : "ALTO BARINAS",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 200,
+		"name" : "MANUEL PALACIO FAJARDO",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 201,
+		"name" : "JUAN ANTONIO RODRÍGUEZ DOMÍNGUEZ",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 202,
+		"name" : "DOMINGA ORTIZ DE PÁEZ",
+		"municipio_id" : 62
+	},
+	{
+		"id" : 203,
+		"name" : "BARINITAS",
+		"municipio_id" : 60
+	},
+	{
+		"id" : 204,
+		"name" : "ALTAMIRA",
+		"municipio_id" : 60
+	},
+	{
+		"id" : 205,
+		"name" : "CALDERAS",
+		"municipio_id" : 60
+	},
+	{
+		"id" : 206,
+		"name" : "BARRANCAS",
+		"municipio_id" : 55
+	},
+	{
+		"id" : 207,
+		"name" : "EL SOCORRO",
+		"municipio_id" : 55
+	},
+	{
+		"id" : 208,
+		"name" : "MASPARRITO",
+		"municipio_id" : 55
+	},
+	{
+		"id" : 209,
+		"name" : "SANTA BÁRBARA",
+		"municipio_id" : 56
+	},
+	{
+		"id" : 210,
+		"name" : "JOSÉ IGNACIO DEL PUMAR",
+		"municipio_id" : 56
+	},
+	{
+		"id" : 211,
+		"name" : "PEDRO BRICEÑO MÉNDEZ",
+		"municipio_id" : 56
+	},
+	{
+		"id" : 212,
+		"name" : "RAMÓN IGNACIO MÉNDEZ",
+		"municipio_id" : 56
+	},
+	{
+		"id" : 213,
+		"name" : "OBISPOS",
+		"municipio_id" : 54
+	},
+	{
+		"id" : 214,
+		"name" : "EL REAL",
+		"municipio_id" : 54
+	},
+	{
+		"id" : 215,
+		"name" : "LA LUZ",
+		"municipio_id" : 54
+	},
+	{
+		"id" : 216,
+		"name" : "LOS GUASIMITOS",
+		"municipio_id" : 54
+	},
+	{
+		"id" : 217,
+		"name" : "CIUDAD BOLIVIA",
+		"municipio_id" : 65
+	},
+	{
+		"id" : 218,
+		"name" : "IGNACIO BRICEÑO",
+		"municipio_id" : 65
+	},
+	{
+		"id" : 219,
+		"name" : "JOSÉ FÉLIX RIBAS",
+		"municipio_id" : 65
+	},
+	{
+		"id" : 220,
+		"name" : "PÁEZ",
+		"municipio_id" : 65
+	},
+	{
+		"id" : 221,
+		"name" : "LIBERTAD",
+		"municipio_id" : 58
+	},
+	{
+		"id" : 222,
+		"name" : "DOLORES",
+		"municipio_id" : 58
+	},
+	{
+		"id" : 223,
+		"name" : "PALACIOS FAJARDO",
+		"municipio_id" : 58
+	},
+	{
+		"id" : 224,
+		"name" : "SANTA ROSA",
+		"municipio_id" : 58
+	},
+	{
+		"id" : 225,
+		"name" : "CIUDAD DE NUTRIAS",
+		"municipio_id" : 57
+	},
+	{
+		"id" : 226,
+		"name" : "EL REGALO",
+		"municipio_id" : 57
+	},
+	{
+		"id" : 227,
+		"name" : "PUERTO DE NUTRIAS",
+		"municipio_id" : 57
+	},
+	{
+		"id" : 228,
+		"name" : "SANTA CATALINA",
+		"municipio_id" : 57
+	},
+	{
+		"id" : 229,
+		"name" : "EL CANTÓN",
+		"municipio_id" : 59
+	},
+	{
+		"id" : 230,
+		"name" : "SANTA CRUZ DE GUACAS",
+		"municipio_id" : 59
+	},
+	{
+		"id" : 231,
+		"name" : "PUERTO VIVAS",
+		"municipio_id" : 59
+	},
+	{
+		"id" : 232,
+		"name" : "CACHAMAY",
+		"municipio_id" : 67
+	},
+	{
+		"id" : 233,
+		"name" : "CHIRICA",
+		"municipio_id" : 67
+	},
+	{
+		"id" : 234,
+		"name" : "DALLA COSTA",
+		"municipio_id" : 67
+	},
+	{
+		"id" : 235,
+		"name" : "ONCE DE ABRIL",
+		"municipio_id" : 67
+	},
+	{
+		"id" : 236,
+		"name" : "SIMÓN BOLÍVAR",
+		"municipio_id" : 67
+	},
+	{
+		"id" : 237,
+		"name" : "UNARE",
+		"municipio_id" : 67
+	},
+	{
+		"id" : 238,
+		"name" : "UNIVERSIDAD",
+		"municipio_id" : 67
+	},
+	{
+		"id" : 239,
+		"name" : "VISTA AL SOL",
+		"municipio_id" : 67
+	},
+	{
+		"id" : 240,
+		"name" : "POZO VERDE",
+		"municipio_id" : 67
+	},
+	{
+		"id" : 241,
+		"name" : "YOCOIMA",
+		"municipio_id" : 67
+	},
+	{
+		"id" : 242,
+		"name" : "SECCIÓN CAPITAL CEDEÑO",
+		"municipio_id" : 70
+	},
+	{
+		"id" : 243,
+		"name" : "ALTAGRACIA",
+		"municipio_id" : 70
+	},
+	{
+		"id" : 244,
+		"name" : "ASCENSIÓN FARRERAS",
+		"municipio_id" : 70
+	},
+	{
+		"id" : 245,
+		"name" : "GUANIAMO",
+		"municipio_id" : 70
+	},
+	{
+		"id" : 246,
+		"name" : "LA URBANA",
+		"municipio_id" : 70
+	},
+	{
+		"id" : 247,
+		"name" : "PIJIGUAOS",
+		"municipio_id" : 70
+	},
+	{
+		"id" : 248,
+		"name" : "CAPITAL EL CALLAO",
+		"municipio_id" : 75
+	},
+	{
+		"id" : 249,
+		"name" : "SECCIÓN CAPITAL GRAN SABANA",
+		"municipio_id" : 69
+	},
+	{
+		"id" : 250,
+		"name" : "IKABARÚ",
+		"municipio_id" : 69
+	},
+	{
+		"id" : 251,
+		"name" : "AGUA SALADA",
+		"municipio_id" : 68
+	},
+	{
+		"id" : 252,
+		"name" : "CATEDRAL",
+		"municipio_id" : 68
+	},
+	{
+		"id" : 253,
+		"name" : "JOSÉ ANTONIO PÁEZ",
+		"municipio_id" : 68
+	},
+	{
+		"id" : 254,
+		"name" : "LA SABANITA",
+		"municipio_id" : 68
+	},
+	{
+		"id" : 255,
+		"name" : "MARHUANTA",
+		"municipio_id" : 68
+	},
+	{
+		"id" : 256,
+		"name" : "VISTA HERMOSA",
+		"municipio_id" : 68
+	},
+	{
+		"id" : 257,
+		"name" : "ORINOCO",
+		"municipio_id" : 68
+	},
+	{
+		"id" : 258,
+		"name" : "PANAPANA",
+		"municipio_id" : 68
+	},
+	{
+		"id" : 259,
+		"name" : "ZEA",
+		"municipio_id" : 68
+	},
+	{
+		"id" : 260,
+		"name" : "SECCIÓN CAPITAL PIAR",
+		"municipio_id" : 76
+	},
+	{
+		"id" : 261,
+		"name" : "ANDRÉS ELOY BLANCO",
+		"municipio_id" : 76
+	},
+	{
+		"id" : 262,
+		"name" : "PEDRO COVA",
+		"municipio_id" : 76
+	},
+	{
+		"id" : 263,
+		"name" : "SECCIÓN CAPITAL RAÚL LEONI",
+		"municipio_id" : 73
+	},
+	{
+		"id" : 264,
+		"name" : "BARCELONETA",
+		"municipio_id" : 73
+	},
+	{
+		"id" : 265,
+		"name" : "SAN FRANCISCO",
+		"municipio_id" : 73
+	},
+	{
+		"id" : 266,
+		"name" : "SANTA BÁRBARA",
+		"municipio_id" : 73
+	},
+	{
+		"id" : 267,
+		"name" : "SECCIÓN CAPITAL ROSCIO",
+		"municipio_id" : 66
+	},
+	{
+		"id" : 268,
+		"name" : "SALOM",
+		"municipio_id" : 66
+	},
+	{
+		"id" : 269,
+		"name" : "SECCIÓN CAPITAL SIFONTES",
+		"municipio_id" : 72
+	},
+	{
+		"id" : 270,
+		"name" : "DALLA COSTA",
+		"municipio_id" : 72
+	},
+	{
+		"id" : 271,
+		"name" : "SAN ISIDRO",
+		"municipio_id" : 72
+	},
+	{
+		"id" : 272,
+		"name" : "SECCIÓN CAPITAL SUCRE",
+		"municipio_id" : 71
+	},
+	{
+		"id" : 273,
+		"name" : "ARIPAO",
+		"municipio_id" : 71
+	},
+	{
+		"id" : 274,
+		"name" : "GUARATARO",
+		"municipio_id" : 71
+	},
+	{
+		"id" : 275,
+		"name" : "LAS MAJADAS",
+		"municipio_id" : 71
+	},
+	{
+		"id" : 276,
+		"name" : "MOITACO",
+		"municipio_id" : 71
+	},
+	{
+		"id" : 277,
+		"name" : "CAPITAL PADRE PEDRO CHIEN",
+		"municipio_id" : 74
+	},
+	{
+		"id" : 278,
+		"name" : "URBANA BEJUMA",
+		"municipio_id" : 85
+	},
+	{
+		"id" : 279,
+		"name" : "NO URBANA CANOABO",
+		"municipio_id" : 85
+	},
+	{
+		"id" : 280,
+		"name" : "NO URBANA SIMÓN BOLÍVAR",
+		"municipio_id" : 85
+	},
+	{
+		"id" : 281,
+		"name" : "URBANA GÜIGÜE",
+		"municipio_id" : 80
+	},
+	{
+		"id" : 282,
+		"name" : "NO URBANA BELÉN",
+		"municipio_id" : 80
+	},
+	{
+		"id" : 283,
+		"name" : "NO URBANA TACARIGUA",
+		"municipio_id" : 80
+	},
+	{
+		"id" : 284,
+		"name" : "URBANA AGUAS CALIENTES",
+		"municipio_id" : 89
+	},
+	{
+		"id" : 285,
+		"name" : "URBANA MARIARA",
+		"municipio_id" : 89
+	},
+	{
+		"id" : 286,
+		"name" : "URBANA CIUDAD ALIANZA",
+		"municipio_id" : 87
+	},
+	{
+		"id" : 287,
+		"name" : "URBANA GUACARA",
+		"municipio_id" : 87
+	},
+	{
+		"id" : 288,
+		"name" : "NO URBANA YAGUA",
+		"municipio_id" : 87
+	},
+	{
+		"id" : 289,
+		"name" : "URBANA MORÓN",
+		"municipio_id" : 90
+	},
+	{
+		"id" : 290,
+		"name" : "NO URBANA URAMA",
+		"municipio_id" : 90
+	},
+	{
+		"id" : 291,
+		"name" : "URBANA TOCUYITO",
+		"municipio_id" : 88
+	},
+	{
+		"id" : 292,
+		"name" : "URBANA INDEPENDENCIA",
+		"municipio_id" : 88
+	},
+	{
+		"id" : 293,
+		"name" : "URBANA LOS GUAYOS",
+		"municipio_id" : 79
+	},
+	{
+		"id" : 294,
+		"name" : "URBANA MIRANDA",
+		"municipio_id" : 77
+	},
+	{
+		"id" : 295,
+		"name" : "URBANA MONTALBÁN",
+		"municipio_id" : 83
+	},
+	{
+		"id" : 296,
+		"name" : "URBANA NAGUANAGUA",
+		"municipio_id" : 82
+	},
+	{
+		"id" : 297,
+		"name" : "URBANA BARTOLOMÉ SALOM",
+		"municipio_id" : 86
+	},
+	{
+		"id" : 298,
+		"name" : "URBANA DEMOCRACIA",
+		"municipio_id" : 86
+	},
+	{
+		"id" : 299,
+		"name" : "URBANA FRATERNIDAD",
+		"municipio_id" : 86
+	},
+	{
+		"id" : 300,
+		"name" : "URBANA GOAIGOAZA",
+		"municipio_id" : 86
+	},
+	{
+		"id" : 301,
+		"name" : "URBANA JUAN JOSÉ FLORES",
+		"municipio_id" : 86
+	},
+	{
+		"id" : 302,
+		"name" : "URBANA UNIÓN",
+		"municipio_id" : 86
+	},
+	{
+		"id" : 303,
+		"name" : "NO URBANA BORBURATA",
+		"municipio_id" : 86
+	},
+	{
+		"id" : 304,
+		"name" : "NO URBANA PATANEMO",
+		"municipio_id" : 86
+	},
+	{
+		"id" : 305,
+		"name" : "URBANA SAN DIEGO",
+		"municipio_id" : 81
+	},
+	{
+		"id" : 306,
+		"name" : "URBANA SAN JOAQUÍN",
+		"municipio_id" : 84
+	},
+	{
+		"id" : 307,
+		"name" : "URBANA CANDELARIA",
+		"municipio_id" : 78
+	},
+	{
+		"id" : 308,
+		"name" : "URBANA CATEDRAL",
+		"municipio_id" : 78
+	},
+	{
+		"id" : 309,
+		"name" : "URBANA EL SOCORRO",
+		"municipio_id" : 78
+	},
+	{
+		"id" : 310,
+		"name" : "URBANA MIGUEL PEÑA",
+		"municipio_id" : 78
+	},
+	{
+		"id" : 311,
+		"name" : "URBANA RAFAEL URDANETA",
+		"municipio_id" : 78
+	},
+	{
+		"id" : 312,
+		"name" : "URBANA SAN BLAS",
+		"municipio_id" : 78
+	},
+	{
+		"id" : 313,
+		"name" : "URBANA SAN JOSÉ",
+		"municipio_id" : 78
+	},
+	{
+		"id" : 314,
+		"name" : "URBANA SANTA ROSA",
+		"municipio_id" : 78
+	},
+	{
+		"id" : 315,
+		"name" : "NO URBANA NEGRO PRIMERO",
+		"municipio_id" : 78
+	},
+	{
+		"id" : 316,
+		"name" : "COJEDES",
+		"municipio_id" : 91
+	},
+	{
+		"id" : 317,
+		"name" : "JUAN DE MATA SUÁREZ",
+		"municipio_id" : 91
+	},
+	{
+		"id" : 318,
+		"name" : "TINAQUILLO",
+		"municipio_id" : 98
+	},
+	{
+		"id" : 319,
+		"name" : "EL BAÚL",
+		"municipio_id" : 92
+	},
+	{
+		"id" : 320,
+		"name" : "SUCRE",
+		"municipio_id" : 92
+	},
+	{
+		"id" : 321,
+		"name" : "MACAPO ",
+		"municipio_id" : 99
+	},
+	{
+		"id" : 322,
+		"name" : "LA AGUADITA ",
+		"municipio_id" : 99
+	},
+	{
+		"id" : 323,
+		"name" : "EL PAO",
+		"municipio_id" : 96
+	},
+	{
+		"id" : 324,
+		"name" : "LIBERTAD DE COJEDES",
+		"municipio_id" : 94
+	},
+	{
+		"id" : 325,
+		"name" : "EL AMPARO",
+		"municipio_id" : 94
+	},
+	{
+		"id" : 326,
+		"name" : "RÓMULO GALLEGOS",
+		"municipio_id" : 95
+	},
+	{
+		"id" : 327,
+		"name" : "SAN CARLOS DE AUSTRIA",
+		"municipio_id" : 93
+	},
+	{
+		"id" : 328,
+		"name" : "JUAN ANGEL BRAVO",
+		"municipio_id" : 93
+	},
+	{
+		"id" : 329,
+		"name" : "MANUEL MANRIQUE",
+		"municipio_id" : 93
+	},
+	{
+		"id" : 330,
+		"name" : "GENERAL EN JEFE JOSÉ LAURENCIO SILVA ",
+		"municipio_id" : 97
+	},
+	{
+		"id" : 331,
+		"name" : "CURIAPO ",
+		"municipio_id" : 103
+	},
+	{
+		"id" : 332,
+		"name" : "ALMIRANTE LUIS BRIÓN ",
+		"municipio_id" : 103
+	},
+	{
+		"id" : 333,
+		"name" : "FRANCISCO ANICETO LUGO ",
+		"municipio_id" : 103
+	},
+	{
+		"id" : 334,
+		"name" : "MANUEL RENAUD ",
+		"municipio_id" : 103
+	},
+	{
+		"id" : 335,
+		"name" : "PADRE BARRAL ",
+		"municipio_id" : 103
+	},
+	{
+		"id" : 336,
+		"name" : "SANTOS DE ABELGAS ",
+		"municipio_id" : 103
+	},
+	{
+		"id" : 337,
+		"name" : "IMATACA ",
+		"municipio_id" : 100
+	},
+	{
+		"id" : 338,
+		"name" : "CINCO DE JULIO ",
+		"municipio_id" : 100
+	},
+	{
+		"id" : 339,
+		"name" : "JUAN BAUTISTA ARISMENDI ",
+		"municipio_id" : 100
+	},
+	{
+		"id" : 340,
+		"name" : "MANUEL PIAR ",
+		"municipio_id" : 100
+	},
+	{
+		"id" : 341,
+		"name" : "RÓMULO GALLEGOS ",
+		"municipio_id" : 100
+	},
+	{
+		"id" : 342,
+		"name" : "PEDERNALES ",
+		"municipio_id" : 102
+	},
+	{
+		"id" : 343,
+		"name" : "LUIS BELTRÁN PRIETO FIGUEROA ",
+		"municipio_id" : 102
+	},
+	{
+		"id" : 344,
+		"name" : "SAN JOSÉ ",
+		"municipio_id" : 101
+	},
+	{
+		"id" : 345,
+		"name" : "JOSÉ VIDAL MARCANO ",
+		"municipio_id" : 101
+	},
+	{
+		"id" : 346,
+		"name" : "JUAN MILLÁN ",
+		"municipio_id" : 101
+	},
+	{
+		"id" : 347,
+		"name" : "LEONARDO RUÍZ PINEDA ",
+		"municipio_id" : 101
+	},
+	{
+		"id" : 348,
+		"name" : "MARISCAL ANTONIO JOSÉ DE SUCRE ",
+		"municipio_id" : 101
+	},
+	{
+		"id" : 349,
+		"name" : "MONSEÑOR ARGIMIRO GARCÍA ",
+		"municipio_id" : 101
+	},
+	{
+		"id" : 350,
+		"name" : "SAN RAFAEL ",
+		"municipio_id" : 101
+	},
+	{
+		"id" : 351,
+		"name" : "VIRGEN DEL VALLE ",
+		"municipio_id" : 101
+	},
+	{
+		"id" : 352,
+		"name" : "SAN JUAN DE LOS CAYOS",
+		"municipio_id" : 129
+	},
+	{
+		"id" : 353,
+		"name" : "CAPADARE",
+		"municipio_id" : 129
+	},
+	{
+		"id" : 354,
+		"name" : "LA PASTORA",
+		"municipio_id" : 129
+	},
+	{
+		"id" : 355,
+		"name" : "LIBERTADOR",
+		"municipio_id" : 129
+	},
+	{
+		"id" : 356,
+		"name" : "SAN LUIS",
+		"municipio_id" : 124
+	},
+	{
+		"id" : 357,
+		"name" : "ARACUA",
+		"municipio_id" : 124
+	},
+	{
+		"id" : 358,
+		"name" : "LA PEÑA ",
+		"municipio_id" : 124
+	},
+	{
+		"id" : 359,
+		"name" : "CAPATÁRIDA",
+		"municipio_id" : 118
+	},
+	{
+		"id" : 360,
+		"name" : "BARIRO",
+		"municipio_id" : 118
+	},
+	{
+		"id" : 361,
+		"name" : "BOROJÓ",
+		"municipio_id" : 118
+	},
+	{
+		"id" : 362,
+		"name" : "GUAJIRO ",
+		"municipio_id" : 118
+	},
+	{
+		"id" : 363,
+		"name" : "SEQUE",
+		"municipio_id" : 118
+	},
+	{
+		"id" : 364,
+		"name" : "ZAZÁRIDA",
+		"municipio_id" : 118
+	},
+	{
+		"id" : 365,
+		"name" : "CAPITAL CACIQUE MANAURE ",
+		"municipio_id" : 128
+	},
+	{
+		"id" : 366,
+		"name" : "CARIRUBANA",
+		"municipio_id" : 125
+	},
+	{
+		"id" : 367,
+		"name" : "NORTE ",
+		"municipio_id" : 125
+	},
+	{
+		"id" : 368,
+		"name" : "PUNTA CARDÓN",
+		"municipio_id" : 125
+	},
+	{
+		"id" : 369,
+		"name" : "SANTA ANA",
+		"municipio_id" : 125
+	},
+	{
+		"id" : 370,
+		"name" : "LA VELA DE CORO",
+		"municipio_id" : 123
+	},
+	{
+		"id" : 371,
+		"name" : "ACURIGUA",
+		"municipio_id" : 123
+	},
+	{
+		"id" : 372,
+		"name" : "GUAIBACOA",
+		"municipio_id" : 123
+	},
+	{
+		"id" : 373,
+		"name" : "LAS CALDERAS ",
+		"municipio_id" : 123
+	},
+	{
+		"id" : 374,
+		"name" : "MACORUCA",
+		"municipio_id" : 123
+	},
+	{
+		"id" : 375,
+		"name" : "CAPITAL DABAJURO ",
+		"municipio_id" : 122
+	},
+	{
+		"id" : 376,
+		"name" : "PEDREGAL",
+		"municipio_id" : 117
+	},
+	{
+		"id" : 377,
+		"name" : "AGUA CLARA",
+		"municipio_id" : 117
+	},
+	{
+		"id" : 378,
+		"name" : "AVARIA",
+		"municipio_id" : 117
+	},
+	{
+		"id" : 379,
+		"name" : "PIEDRA GRANDE",
+		"municipio_id" : 117
+	},
+	{
+		"id" : 380,
+		"name" : "PURURECHE",
+		"municipio_id" : 117
+	},
+	{
+		"id" : 381,
+		"name" : "PUEBLO NUEVO",
+		"municipio_id" : 120
+	},
+	{
+		"id" : 382,
+		"name" : "ADÍCORA",
+		"municipio_id" : 120
+	},
+	{
+		"id" : 383,
+		"name" : "BARAIVED",
+		"municipio_id" : 120
+	},
+	{
+		"id" : 384,
+		"name" : "BUENA VISTA",
+		"municipio_id" : 120
+	},
+	{
+		"id" : 385,
+		"name" : "JADACAQUIVA",
+		"municipio_id" : 120
+	},
+	{
+		"id" : 386,
+		"name" : "MORUY",
+		"municipio_id" : 120
+	},
+	{
+		"id" : 387,
+		"name" : "ADAURE ",
+		"municipio_id" : 120
+	},
+	{
+		"id" : 388,
+		"name" : "EL HATO ",
+		"municipio_id" : 120
+	},
+	{
+		"id" : 389,
+		"name" : "EL VÍNCULO ",
+		"municipio_id" : 120
+	},
+	{
+		"id" : 390,
+		"name" : "CHURUGUARA",
+		"municipio_id" : 121
+	},
+	{
+		"id" : 391,
+		"name" : "AGUA LARGA",
+		"municipio_id" : 121
+	},
+	{
+		"id" : 392,
+		"name" : "EL PAUJÍ ",
+		"municipio_id" : 121
+	},
+	{
+		"id" : 393,
+		"name" : "INDEPENDENCIA",
+		"municipio_id" : 121
+	},
+	{
+		"id" : 394,
+		"name" : "MAPARARÍ",
+		"municipio_id" : 121
+	},
+	{
+		"id" : 395,
+		"name" : "JACURA",
+		"municipio_id" : 127
+	},
+	{
+		"id" : 396,
+		"name" : "AGUA LINDA",
+		"municipio_id" : 127
+	},
+	{
+		"id" : 397,
+		"name" : "ARAURIMA ",
+		"municipio_id" : 127
+	},
+	{
+		"id" : 398,
+		"name" : "LOS TAQUES",
+		"municipio_id" : 116
+	},
+	{
+		"id" : 399,
+		"name" : "JUDIBANA",
+		"municipio_id" : 116
+	},
+	{
+		"id" : 400,
+		"name" : "MENE DE MAUROA",
+		"municipio_id" : 126
+	},
+	{
+		"id" : 401,
+		"name" : "CASIGUA",
+		"municipio_id" : 126
+	},
+	{
+		"id" : 402,
+		"name" : "SAN FÉLIX",
+		"municipio_id" : 126
+	},
+	{
+		"id" : 403,
+		"name" : "SAN ANTONIO",
+		"municipio_id" : 105
+	},
+	{
+		"id" : 404,
+		"name" : "SAN GABRIEL",
+		"municipio_id" : 105
+	},
+	{
+		"id" : 405,
+		"name" : "SANTA ANA",
+		"municipio_id" : 105
+	},
+	{
+		"id" : 406,
+		"name" : "GUZMÁN GUILLERMO",
+		"municipio_id" : 105
+	},
+	{
+		"id" : 407,
+		"name" : "MITARE",
+		"municipio_id" : 105
+	},
+	{
+		"id" : 408,
+		"name" : "RÍO SECO",
+		"municipio_id" : 105
+	},
+	{
+		"id" : 409,
+		"name" : "SABANETA",
+		"municipio_id" : 105
+	},
+	{
+		"id" : 410,
+		"name" : "CHICHIRIVICHE",
+		"municipio_id" : 115
+	},
+	{
+		"id" : 411,
+		"name" : "BOCA DE TOCUYO",
+		"municipio_id" : 115
+	},
+	{
+		"id" : 412,
+		"name" : "TOCUYO DE LA COSTA",
+		"municipio_id" : 115
+	},
+	{
+		"id" : 413,
+		"name" : "CAPITAL PALMASOLA ",
+		"municipio_id" : 119
+	},
+	{
+		"id" : 414,
+		"name" : "CABURE",
+		"municipio_id" : 108
+	},
+	{
+		"id" : 415,
+		"name" : "COLINA",
+		"municipio_id" : 108
+	},
+	{
+		"id" : 416,
+		"name" : "CURIMAGUA",
+		"municipio_id" : 108
+	},
+	{
+		"id" : 417,
+		"name" : "PÍRITU",
+		"municipio_id" : 114
+	},
+	{
+		"id" : 418,
+		"name" : "SAN JOSÉ DE LA COSTA",
+		"municipio_id" : 114
+	},
+	{
+		"id" : 419,
+		"name" : "CAPITAL SAN FRANCISCO ",
+		"municipio_id" : 109
+	},
+	{
+		"id" : 420,
+		"name" : "TUCACAS",
+		"municipio_id" : 111
+	},
+	{
+		"id" : 421,
+		"name" : "BOCA DE AROA",
+		"municipio_id" : 111
+	},
+	{
+		"id" : 422,
+		"name" : "SUCRE",
+		"municipio_id" : 107
+	},
+	{
+		"id" : 423,
+		"name" : "PECAYA",
+		"municipio_id" : 107
+	},
+	{
+		"id" : 424,
+		"name" : "CAPITAL TOCÓPERO ",
+		"municipio_id" : 112
+	},
+	{
+		"id" : 425,
+		"name" : "SANTA CRUZ DE BUCARAL",
+		"municipio_id" : 110
+	},
+	{
+		"id" : 426,
+		"name" : "EL CHARAL",
+		"municipio_id" : 110
+	},
+	{
+		"id" : 427,
+		"name" : "LAS VEGAS DEL TUY",
+		"municipio_id" : 110
+	},
+	{
+		"id" : 428,
+		"name" : "URUMACO",
+		"municipio_id" : 106
+	},
+	{
+		"id" : 429,
+		"name" : "BRUZUAL",
+		"municipio_id" : 106
+	},
+	{
+		"id" : 430,
+		"name" : "PUERTO CUMAREBO",
+		"municipio_id" : 113
+	},
+	{
+		"id" : 431,
+		"name" : "LA CIÉNAGA",
+		"municipio_id" : 113
+	},
+	{
+		"id" : 432,
+		"name" : "LA SOLEDAD",
+		"municipio_id" : 113
+	},
+	{
+		"id" : 433,
+		"name" : "PUEBLO CUMAREBO",
+		"municipio_id" : 113
+	},
+	{
+		"id" : 434,
+		"name" : "ZAZÁRIDA",
+		"municipio_id" : 113
+	},
+	{
+		"id" : 435,
+		"name" : "CAPITAL CAMAGUÁN",
+		"municipio_id" : 131
+	},
+	{
+		"id" : 436,
+		"name" : "PUERTO MIRANDA ",
+		"municipio_id" : 131
+	},
+	{
+		"id" : 437,
+		"name" : "UVERITO ",
+		"municipio_id" : 131
+	},
+	{
+		"id" : 438,
+		"name" : "CHAGUARAMAS",
+		"municipio_id" : 134
+	},
+	{
+		"id" : 439,
+		"name" : "EL SOCORRO",
+		"municipio_id" : 130
+	},
+	{
+		"id" : 440,
+		"name" : "CAPITAL SAN GERÓNIMO DE GUAYABAL ",
+		"municipio_id" : 140
+	},
+	{
+		"id" : 441,
+		"name" : "CAZORLA",
+		"municipio_id" : 140
+	},
+	{
+		"id" : 442,
+		"name" : "CAPITAL VALLE DE LA PASCUA",
+		"municipio_id" : 138
+	},
+	{
+		"id" : 443,
+		"name" : "ESPINO",
+		"municipio_id" : 138
+	},
+	{
+		"id" : 444,
+		"name" : "CAPITAL LAS MERCEDES",
+		"municipio_id" : 144
+	},
+	{
+		"id" : 445,
+		"name" : "CABRUTA",
+		"municipio_id" : 144
+	},
+	{
+		"id" : 446,
+		"name" : "SANTA RITA DE MANAPIRE",
+		"municipio_id" : 144
+	},
+	{
+		"id" : 447,
+		"name" : "CAPITAL EL SOMBRERO",
+		"municipio_id" : 139
+	},
+	{
+		"id" : 448,
+		"name" : "SOSA ",
+		"municipio_id" : 139
+	},
+	{
+		"id" : 449,
+		"name" : "CAPITAL CALABOZO",
+		"municipio_id" : 137
+	},
+	{
+		"id" : 450,
+		"name" : "EL CALVARIO",
+		"municipio_id" : 137
+	},
+	{
+		"id" : 451,
+		"name" : "EL RASTRO",
+		"municipio_id" : 137
+	},
+	{
+		"id" : 452,
+		"name" : "GUARDATINAJAS",
+		"municipio_id" : 137
+	},
+	{
+		"id" : 453,
+		"name" : "CAPITAL ALTAGRACIA DE ORITUCO",
+		"municipio_id" : 143
+	},
+	{
+		"id" : 454,
+		"name" : "LEZAMA",
+		"municipio_id" : 143
+	},
+	{
+		"id" : 455,
+		"name" : "LIBERTAD DE ORITUCO",
+		"municipio_id" : 143
+	},
+	{
+		"id" : 456,
+		"name" : "PASO REAL DE MACAIRA ",
+		"municipio_id" : 143
+	},
+	{
+		"id" : 457,
+		"name" : "SAN FRANCISCO DE MACAIRA",
+		"municipio_id" : 143
+	},
+	{
+		"id" : 458,
+		"name" : "SAN RAFAEL DE ORITUCO",
+		"municipio_id" : 143
+	},
+	{
+		"id" : 459,
+		"name" : "SOUBLETTE",
+		"municipio_id" : 143
+	},
+	{
+		"id" : 460,
+		"name" : "CAPITAL ORTIZ",
+		"municipio_id" : 133
+	},
+	{
+		"id" : 461,
+		"name" : "SAN FRANCISCO DE TIZNADOS",
+		"municipio_id" : 133
+	},
+	{
+		"id" : 462,
+		"name" : "SAN JOSÉ DE TIZNADOS",
+		"municipio_id" : 133
+	},
+	{
+		"id" : 463,
+		"name" : "SAN LORENZO DE TIZNADOS",
+		"municipio_id" : 133
+	},
+	{
+		"id" : 464,
+		"name" : "CAPITAL TUCUPIDO",
+		"municipio_id" : 132
+	},
+	{
+		"id" : 465,
+		"name" : "SAN RAFAEL DE LAYA",
+		"municipio_id" : 132
+	},
+	{
+		"id" : 466,
+		"name" : "CAPITAL SAN JUAN DE LOS MORROS",
+		"municipio_id" : 141
+	},
+	{
+		"id" : 467,
+		"name" : "CANTAGALLO",
+		"municipio_id" : 141
+	},
+	{
+		"id" : 468,
+		"name" : "PARAPARA",
+		"municipio_id" : 141
+	},
+	{
+		"id" : 469,
+		"name" : "SAN JOSÉ DE GUARIBE",
+		"municipio_id" : 142
+	},
+	{
+		"id" : 470,
+		"name" : "CAPITAL SANTA MARÍA DE IPIRE",
+		"municipio_id" : 136
+	},
+	{
+		"id" : 471,
+		"name" : "ALTAMIRA",
+		"municipio_id" : 136
+	},
+	{
+		"id" : 472,
+		"name" : "CAPITAL ZARAZA",
+		"municipio_id" : 135
+	},
+	{
+		"id" : 473,
+		"name" : "SAN JOSÉ DE UNARE",
+		"municipio_id" : 135
+	},
+	{
+		"id" : 474,
+		"name" : "PÍO TAMAYO",
+		"municipio_id" : 150
+	},
+	{
+		"id" : 475,
+		"name" : "QUEBRADA HONDA DE GUACHE ",
+		"municipio_id" : 150
+	},
+	{
+		"id" : 476,
+		"name" : "YACAMBÚ",
+		"municipio_id" : 150
+	},
+	{
+		"id" : 477,
+		"name" : "FRÉITEZ",
+		"municipio_id" : 151
+	},
+	{
+		"id" : 478,
+		"name" : "JOSÉ MARÍA BLANCO",
+		"municipio_id" : 151
+	},
+	{
+		"id" : 479,
+		"name" : "CATEDRAL",
+		"municipio_id" : 146
+	},
+	{
+		"id" : 480,
+		"name" : "CONCEPCIÓN",
+		"municipio_id" : 146
+	},
+	{
+		"id" : 481,
+		"name" : "EL CUJÍ",
+		"municipio_id" : 146
+	},
+	{
+		"id" : 482,
+		"name" : "JUAN DE VILLEGAS",
+		"municipio_id" : 146
+	},
+	{
+		"id" : 483,
+		"name" : "SANTA ROSA",
+		"municipio_id" : 146
+	},
+	{
+		"id" : 484,
+		"name" : "TAMACA",
+		"municipio_id" : 146
+	},
+	{
+		"id" : 485,
+		"name" : "UNIÓN",
+		"municipio_id" : 146
+	},
+	{
+		"id" : 486,
+		"name" : "AGUEDO FELIPE ALVARADO",
+		"municipio_id" : 146
+	},
+	{
+		"id" : 487,
+		"name" : "BUENA VISTA",
+		"municipio_id" : 146
+	},
+	{
+		"id" : 488,
+		"name" : "JUÁREZ",
+		"municipio_id" : 146
+	},
+	{
+		"id" : 489,
+		"name" : "JUAN BAUTISTA RODRÍGUEZ",
+		"municipio_id" : 148
+	},
+	{
+		"id" : 490,
+		"name" : "CUARA",
+		"municipio_id" : 148
+	},
+	{
+		"id" : 491,
+		"name" : "DIEGO DE LOZADA",
+		"municipio_id" : 148
+	},
+	{
+		"id" : 492,
+		"name" : "PARAÍSO DE SAN JOSÉ ",
+		"municipio_id" : 148
+	},
+	{
+		"id" : 493,
+		"name" : "SAN MIGUEL",
+		"municipio_id" : 148
+	},
+	{
+		"id" : 494,
+		"name" : "TINTORERO ",
+		"municipio_id" : 148
+	},
+	{
+		"id" : 495,
+		"name" : "JOSÉ BERNARDO DORANTE ",
+		"municipio_id" : 148
+	},
+	{
+		"id" : 496,
+		"name" : "CORONEL MARIANO PERAZA ",
+		"municipio_id" : 148
+	},
+	{
+		"id" : 497,
+		"name" : "ANZOÁTEGUI",
+		"municipio_id" : 145
+	},
+	{
+		"id" : 498,
+		"name" : "GUARICO",
+		"municipio_id" : 145
+	},
+	{
+		"id" : 499,
+		"name" : "HILARIO LUNA Y LUNA",
+		"municipio_id" : 145
+	},
+	{
+		"id" : 500,
+		"name" : "HUMOCARO ALTO",
+		"municipio_id" : 145
+	},
+	{
+		"id" : 501,
+		"name" : "HUMOCARO BAJO",
+		"municipio_id" : 145
+	},
+	{
+		"id" : 502,
+		"name" : "LA CANDELARIA",
+		"municipio_id" : 145
+	},
+	{
+		"id" : 503,
+		"name" : "MORÁN",
+		"municipio_id" : 145
+	},
+	{
+		"id" : 504,
+		"name" : "CABUDARE",
+		"municipio_id" : 149
+	},
+	{
+		"id" : 505,
+		"name" : "JOSÉ GREGORIO BASTIDAS",
+		"municipio_id" : 149
+	},
+	{
+		"id" : 506,
+		"name" : "AGUA VIVA ",
+		"municipio_id" : 149
+	},
+	{
+		"id" : 507,
+		"name" : "SARARE",
+		"municipio_id" : 147
+	},
+	{
+		"id" : 508,
+		"name" : "BURÍA",
+		"municipio_id" : 147
+	},
+	{
+		"id" : 509,
+		"name" : "GUSTAVO VEGAS LEÓN",
+		"municipio_id" : 147
+	},
+	{
+		"id" : 510,
+		"name" : "TRINIDAD SAMUEL",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 511,
+		"name" : "ANTONIO DÍAZ",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 512,
+		"name" : "CAMACARO",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 513,
+		"name" : "CASTAÑEDA",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 514,
+		"name" : "CECILIO ZUBILLAGA",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 515,
+		"name" : "CHIQUINQUIRÁ",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 516,
+		"name" : "EL BLANCO",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 517,
+		"name" : "ESPINOZA DE LOS MONTEROS",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 518,
+		"name" : "LARA",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 519,
+		"name" : "LAS MERCEDES",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 520,
+		"name" : "MANUEL MORILLO",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 521,
+		"name" : "MONTAÑA VERDE",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 522,
+		"name" : "MONTES DE OCA",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 523,
+		"name" : "TORRES",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 524,
+		"name" : "HERIBERTO ARROYO ",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 525,
+		"name" : "REYES VARGAS ",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 526,
+		"name" : "ALTAGRACIA ",
+		"municipio_id" : 153
+	},
+	{
+		"id" : 527,
+		"name" : "SIQUISIQUE",
+		"municipio_id" : 152
+	},
+	{
+		"id" : 528,
+		"name" : "MOROTURO",
+		"municipio_id" : 152
+	},
+	{
+		"id" : 529,
+		"name" : "SAN MIGUEL",
+		"municipio_id" : 152
+	},
+	{
+		"id" : 530,
+		"name" : "XAGUAS",
+		"municipio_id" : 152
+	},
+	{
+		"id" : 531,
+		"name" : "PRESIDENTE BETANCOURT ",
+		"municipio_id" : 174
+	},
+	{
+		"id" : 532,
+		"name" : "PRESIDENTE PÁEZ  ",
+		"municipio_id" : 174
+	},
+	{
+		"id" : 533,
+		"name" : "PRESIDENTE RÓMULO GALLEGOS ",
+		"municipio_id" : 174
+	},
+	{
+		"id" : 534,
+		"name" : "GABRIEL PICÓN GONZÁLEZ",
+		"municipio_id" : 174
+	},
+	{
+		"id" : 535,
+		"name" : "HÉCTOR AMABLE MORA",
+		"municipio_id" : 174
+	},
+	{
+		"id" : 536,
+		"name" : "JOSÉ NUCETE SARDI ",
+		"municipio_id" : 174
+	},
+	{
+		"id" : 537,
+		"name" : "PULIDO MÉNDEZ ",
+		"municipio_id" : 174
+	},
+	{
+		"id" : 538,
+		"name" : "CAPITAL ANDRÉS BELLO ",
+		"municipio_id" : 175
+	},
+	{
+		"id" : 539,
+		"name" : "CAPITAL ANTONIO PINTO SALINAS ",
+		"municipio_id" : 166
+	},
+	{
+		"id" : 540,
+		"name" : "MESA BOLÍVAR",
+		"municipio_id" : 166
+	},
+	{
+		"id" : 541,
+		"name" : "MESA DE LAS PALMAS ",
+		"municipio_id" : 166
+	},
+	{
+		"id" : 542,
+		"name" : "CAPITAL ARICAGUA ",
+		"municipio_id" : 157
+	},
+	{
+		"id" : 543,
+		"name" : "SAN ANTONIO ",
+		"municipio_id" : 157
+	},
+	{
+		"id" : 544,
+		"name" : "CAPITAL ARZOBISPO CHACÓN",
+		"municipio_id" : 169
+	},
+	{
+		"id" : 545,
+		"name" : "CAPURÍ ",
+		"municipio_id" : 169
+	},
+	{
+		"id" : 546,
+		"name" : "CHACANTÁ ",
+		"municipio_id" : 169
+	},
+	{
+		"id" : 547,
+		"name" : "EL MOLINO ",
+		"municipio_id" : 169
+	},
+	{
+		"id" : 548,
+		"name" : "GUAIMARAL ",
+		"municipio_id" : 169
+	},
+	{
+		"id" : 549,
+		"name" : "MUCUTUY",
+		"municipio_id" : 169
+	},
+	{
+		"id" : 550,
+		"name" : "MUCUCHACHÍ",
+		"municipio_id" : 169
+	},
+	{
+		"id" : 551,
+		"name" : "FERNÁNDEZ PEÑA ",
+		"municipio_id" : 155
+	},
+	{
+		"id" : 552,
+		"name" : "MATRIZ",
+		"municipio_id" : 155
+	},
+	{
+		"id" : 553,
+		"name" : "MONTALBÁN",
+		"municipio_id" : 155
+	},
+	{
+		"id" : 554,
+		"name" : "ACEQUIAS",
+		"municipio_id" : 155
+	},
+	{
+		"id" : 555,
+		"name" : "JAJÍ",
+		"municipio_id" : 155
+	},
+	{
+		"id" : 556,
+		"name" : "LA MESA",
+		"municipio_id" : 155
+	},
+	{
+		"id" : 557,
+		"name" : "SAN JOSÉ DEL SUR",
+		"municipio_id" : 155
+	},
+	{
+		"id" : 558,
+		"name" : "CAPITAL CARACCIOLO PARRA OLMEDO ",
+		"municipio_id" : 160
+	},
+	{
+		"id" : 559,
+		"name" : "FLORENCIO RAMÍREZ ",
+		"municipio_id" : 160
+	},
+	{
+		"id" : 560,
+		"name" : "CAPITAL CARDENAL QUINTERO ",
+		"municipio_id" : 167
+	},
+	{
+		"id" : 561,
+		"name" : "LAS PIEDRAS",
+		"municipio_id" : 167
+	},
+	{
+		"id" : 562,
+		"name" : "CAPITAL GUARAQUE ",
+		"municipio_id" : 156
+	},
+	{
+		"id" : 563,
+		"name" : "MESA DE QUINTERO ",
+		"municipio_id" : 156
+	},
+	{
+		"id" : 564,
+		"name" : "RÍO NEGRO ",
+		"municipio_id" : 156
+	},
+	{
+		"id" : 565,
+		"name" : "CAPITAL JULIO CÉSAR SALAS ",
+		"municipio_id" : 158
+	},
+	{
+		"id" : 566,
+		"name" : "PALMIRA  ",
+		"municipio_id" : 158
+	},
+	{
+		"id" : 567,
+		"name" : "CAPITAL JUSTO BRICEÑO ",
+		"municipio_id" : 161
+	},
+	{
+		"id" : 568,
+		"name" : "SAN CRISTÓBAL DE TORONDOY",
+		"municipio_id" : 161
+	},
+	{
+		"id" : 569,
+		"name" : "ANTONIO SPINETTI DINI ",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 570,
+		"name" : "ARIAS",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 571,
+		"name" : "CARACCIOLO PARRA PÉREZ ",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 572,
+		"name" : "DOMINGO PEÑA ",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 573,
+		"name" : "EL LLANO",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 574,
+		"name" : "GONZALO PICÓN FEBRES ",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 575,
+		"name" : "JACINTO PLAZA ",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 576,
+		"name" : "JUAN RODRÍGUEZ SUÁREZ",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 577,
+		"name" : "LASSO DE LA VEGA ",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 578,
+		"name" : "MARIANO PICÓN SALAS ",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 579,
+		"name" : "MILLA",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 580,
+		"name" : "OSUNA RODRÍGUEZ ",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 581,
+		"name" : "SAGRARIO",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 582,
+		"name" : "EL MORRO",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 583,
+		"name" : "LOS NEVADOS ",
+		"municipio_id" : 165
+	},
+	{
+		"id" : 584,
+		"name" : "CAPITAL MIRANDA ",
+		"municipio_id" : 171
+	},
+	{
+		"id" : 585,
+		"name" : "ANDRÉS ELOY BLANCO",
+		"municipio_id" : 171
+	},
+	{
+		"id" : 586,
+		"name" : "LA VENTA ",
+		"municipio_id" : 171
+	},
+	{
+		"id" : 587,
+		"name" : "PIÑANGO ",
+		"municipio_id" : 171
+	},
+	{
+		"id" : 588,
+		"name" : "CAPITAL OBISPO RAMOS DE LORA ",
+		"municipio_id" : 170
+	},
+	{
+		"id" : 589,
+		"name" : "ELOY PAREDES",
+		"municipio_id" : 170
+	},
+	{
+		"id" : 590,
+		"name" : "SAN RAFAEL DE ALCÁZAR ",
+		"municipio_id" : 170
+	},
+	{
+		"id" : 591,
+		"name" : "CAPITAL PADRE NOGUERA ",
+		"municipio_id" : 172
+	},
+	{
+		"id" : 592,
+		"name" : "CAPITAL PUEBLO LLANO ",
+		"municipio_id" : 168
+	},
+	{
+		"id" : 593,
+		"name" : "CAPITAL RANGEL ",
+		"municipio_id" : 164
+	},
+	{
+		"id" : 594,
+		"name" : "CACUTE ",
+		"municipio_id" : 164
+	},
+	{
+		"id" : 595,
+		"name" : "LA TOMA ",
+		"municipio_id" : 164
+	},
+	{
+		"id" : 596,
+		"name" : "MUCURUBÁ",
+		"municipio_id" : 164
+	},
+	{
+		"id" : 597,
+		"name" : "SAN RAFAEL",
+		"municipio_id" : 164
+	},
+	{
+		"id" : 598,
+		"name" : "CAPITAL RIVAS DÁVILA ",
+		"municipio_id" : 154
+	},
+	{
+		"id" : 599,
+		"name" : "GERÓNIMO MALDONADO",
+		"municipio_id" : 154
+	},
+	{
+		"id" : 600,
+		"name" : "CAPITAL SANTOS MARQUINA ",
+		"municipio_id" : 159
+	},
+	{
+		"id" : 601,
+		"name" : "CAPITAL SUCRE ",
+		"municipio_id" : 162
+	},
+	{
+		"id" : 602,
+		"name" : "CHIGUARÁ",
+		"municipio_id" : 162
+	},
+	{
+		"id" : 603,
+		"name" : "ESTÁNQUEZ",
+		"municipio_id" : 162
+	},
+	{
+		"id" : 604,
+		"name" : "LA TRAMPA ",
+		"municipio_id" : 162
+	},
+	{
+		"id" : 605,
+		"name" : "PUEBLO NUEVO DEL SUR ",
+		"municipio_id" : 162
+	},
+	{
+		"id" : 606,
+		"name" : "SAN JUAN",
+		"municipio_id" : 162
+	},
+	{
+		"id" : 607,
+		"name" : "EL AMPARO ",
+		"municipio_id" : 163
+	},
+	{
+		"id" : 608,
+		"name" : "EL LLANO",
+		"municipio_id" : 163
+	},
+	{
+		"id" : 609,
+		"name" : "SAN FRANCISCO ",
+		"municipio_id" : 163
+	},
+	{
+		"id" : 610,
+		"name" : "TOVAR",
+		"municipio_id" : 163
+	},
+	{
+		"id" : 611,
+		"name" : "CAPITAL TULIO FEBRES CORDERO ",
+		"municipio_id" : 176
+	},
+	{
+		"id" : 612,
+		"name" : "INDEPENDENCIA",
+		"municipio_id" : 176
+	},
+	{
+		"id" : 613,
+		"name" : "MARÍA DE LA CONCEPCIÓN PALACIOS BLANCO",
+		"municipio_id" : 176
+	},
+	{
+		"id" : 614,
+		"name" : "SANTA APOLONIA",
+		"municipio_id" : 176
+	},
+	{
+		"id" : 615,
+		"name" : "CAPITAL ZEA ",
+		"municipio_id" : 173
+	},
+	{
+		"id" : 616,
+		"name" : "CAÑO EL TIGRE",
+		"municipio_id" : 173
+	},
+	{
+		"id" : 617,
+		"name" : "CAUCAGUA",
+		"municipio_id" : 177
+	},
+	{
+		"id" : 618,
+		"name" : "ARAGÜITA",
+		"municipio_id" : 177
+	},
+	{
+		"id" : 619,
+		"name" : "ARÉVALO GONZÁLEZ",
+		"municipio_id" : 177
+	},
+	{
+		"id" : 620,
+		"name" : "CAPAYA",
+		"municipio_id" : 177
+	},
+	{
+		"id" : 621,
+		"name" : "EL CAFÉ ",
+		"municipio_id" : 177
+	},
+	{
+		"id" : 622,
+		"name" : "MARIZAPA ",
+		"municipio_id" : 177
+	},
+	{
+		"id" : 623,
+		"name" : "PANAQUIRE",
+		"municipio_id" : 177
+	},
+	{
+		"id" : 624,
+		"name" : "RIBAS",
+		"municipio_id" : 177
+	},
+	{
+		"id" : 625,
+		"name" : "SAN JOSÉ DE BARLOVENTO",
+		"municipio_id" : 187
+	},
+	{
+		"id" : 626,
+		"name" : "CUMBO ",
+		"municipio_id" : 187
+	},
+	{
+		"id" : 627,
+		"name" : "BARUTA",
+		"municipio_id" : 192
+	},
+	{
+		"id" : 628,
+		"name" : "EL CAFETAL",
+		"municipio_id" : 192
+	},
+	{
+		"id" : 629,
+		"name" : "LAS MINAS DE BARUTA ",
+		"municipio_id" : 192
+	},
+	{
+		"id" : 630,
+		"name" : "HIGUEROTE",
+		"municipio_id" : 179
+	},
+	{
+		"id" : 631,
+		"name" : "CURIEPE",
+		"municipio_id" : 179
+	},
+	{
+		"id" : 632,
+		"name" : "TACARIGUA",
+		"municipio_id" : 179
+	},
+	{
+		"id" : 633,
+		"name" : "MAMPORAL",
+		"municipio_id" : 190
+	},
+	{
+		"id" : 634,
+		"name" : "CARRIZAL",
+		"municipio_id" : 180
+	},
+	{
+		"id" : 635,
+		"name" : "CHACAO",
+		"municipio_id" : 186
+	},
+	{
+		"id" : 636,
+		"name" : "CHARALLAVE",
+		"municipio_id" : 183
+	},
+	{
+		"id" : 637,
+		"name" : "LAS BRISAS ",
+		"municipio_id" : 183
+	},
+	{
+		"id" : 638,
+		"name" : "EL HATILLO",
+		"municipio_id" : 197
+	},
+	{
+		"id" : 639,
+		"name" : "LOS TEQUES",
+		"municipio_id" : 181
+	},
+	{
+		"id" : 640,
+		"name" : "ALTAGRACIA DE LA MONTAÑA ",
+		"municipio_id" : 181
+	},
+	{
+		"id" : 641,
+		"name" : "CECILIO ACOSTA",
+		"municipio_id" : 181
+	},
+	{
+		"id" : 642,
+		"name" : "EL JARILLO",
+		"municipio_id" : 181
+	},
+	{
+		"id" : 643,
+		"name" : "PARACOTOS",
+		"municipio_id" : 181
+	},
+	{
+		"id" : 644,
+		"name" : "SAN PEDRO",
+		"municipio_id" : 181
+	},
+	{
+		"id" : 645,
+		"name" : "TÁCATA",
+		"municipio_id" : 181
+	},
+	{
+		"id" : 646,
+		"name" : "SANTA TERESA DEL TUY",
+		"municipio_id" : 178
+	},
+	{
+		"id" : 647,
+		"name" : "EL CARTANAL",
+		"municipio_id" : 178
+	},
+	{
+		"id" : 648,
+		"name" : "OCUMARE DEL TUY",
+		"municipio_id" : 184
+	},
+	{
+		"id" : 649,
+		"name" : "LA DEMOCRACIA",
+		"municipio_id" : 184
+	},
+	{
+		"id" : 650,
+		"name" : "SANTA BÁRBARA",
+		"municipio_id" : 184
+	},
+	{
+		"id" : 651,
+		"name" : "SAN ANTONIO DE LOS ALTOS",
+		"municipio_id" : 195
+	},
+	{
+		"id" : 652,
+		"name" : "RÍO CHICO",
+		"municipio_id" : 189
+	},
+	{
+		"id" : 653,
+		"name" : "EL GUAPO",
+		"municipio_id" : 189
+	},
+	{
+		"id" : 654,
+		"name" : "TACARIGUA DE LA LAGUNA",
+		"municipio_id" : 189
+	},
+	{
+		"id" : 655,
+		"name" : "PAPARO",
+		"municipio_id" : 189
+	},
+	{
+		"id" : 656,
+		"name" : "SAN FERNANDO DEL GUAPO",
+		"municipio_id" : 189
+	},
+	{
+		"id" : 657,
+		"name" : "SANTA LUCÍA",
+		"municipio_id" : 194
+	},
+	{
+		"id" : 658,
+		"name" : "CÚPIRA",
+		"municipio_id" : 182
+	},
+	{
+		"id" : 659,
+		"name" : "MACHURUCUTO",
+		"municipio_id" : 182
+	},
+	{
+		"id" : 660,
+		"name" : "GUARENAS",
+		"municipio_id" : 191
+	},
+	{
+		"id" : 661,
+		"name" : "SAN FRANCISCO DE YARE",
+		"municipio_id" : 185
+	},
+	{
+		"id" : 662,
+		"name" : "SAN ANTONIO DE YARE",
+		"municipio_id" : 185
+	},
+	{
+		"id" : 663,
+		"name" : "PETARE",
+		"municipio_id" : 188
+	},
+	{
+		"id" : 664,
+		"name" : "CAUCAGÜITA",
+		"municipio_id" : 188
+	},
+	{
+		"id" : 665,
+		"name" : "FILA DE MARICHES",
+		"municipio_id" : 188
+	},
+	{
+		"id" : 666,
+		"name" : "LA DOLORITA",
+		"municipio_id" : 188
+	},
+	{
+		"id" : 667,
+		"name" : "LEONCIO MARTÍNEZ",
+		"municipio_id" : 188
+	},
+	{
+		"id" : 668,
+		"name" : "CÚA",
+		"municipio_id" : 196
+	},
+	{
+		"id" : 669,
+		"name" : "NUEVA CÚA",
+		"municipio_id" : 196
+	},
+	{
+		"id" : 670,
+		"name" : "GUATIRE",
+		"municipio_id" : 193
+	},
+	{
+		"id" : 671,
+		"name" : "BOLÍVAR",
+		"municipio_id" : 193
+	},
+	{
+		"id" : 672,
+		"name" : "CAPITAL ACOSTA  ",
+		"municipio_id" : 205
+	},
+	{
+		"id" : 673,
+		"name" : "SAN FRANCISCO",
+		"municipio_id" : 205
+	},
+	{
+		"id" : 674,
+		"name" : "CAPITAL AGUASAY ",
+		"municipio_id" : 206
+	},
+	{
+		"id" : 675,
+		"name" : "CAPITAL BOLÍVAR ",
+		"municipio_id" : 208
+	},
+	{
+		"id" : 676,
+		"name" : "CAPITAL CARIPE ",
+		"municipio_id" : 204
+	},
+	{
+		"id" : 677,
+		"name" : "EL GUÁCHARO",
+		"municipio_id" : 204
+	},
+	{
+		"id" : 678,
+		"name" : "LA GUANOTA",
+		"municipio_id" : 204
+	},
+	{
+		"id" : 679,
+		"name" : "SABANA DE PIEDRA",
+		"municipio_id" : 204
+	},
+	{
+		"id" : 680,
+		"name" : "SAN AGUSTÍN",
+		"municipio_id" : 204
+	},
+	{
+		"id" : 681,
+		"name" : "TERESÉN",
+		"municipio_id" : 204
+	},
+	{
+		"id" : 682,
+		"name" : "CAPITAL CEDEÑO ",
+		"municipio_id" : 201
+	},
+	{
+		"id" : 683,
+		"name" : "AREO",
+		"municipio_id" : 201
+	},
+	{
+		"id" : 684,
+		"name" : "SAN FÉLIX",
+		"municipio_id" : 201
+	},
+	{
+		"id" : 685,
+		"name" : "VIENTO FRESCO",
+		"municipio_id" : 201
+	},
+	{
+		"id" : 686,
+		"name" : "CAPITAL EZEQUIEL ZAMORA ",
+		"municipio_id" : 198
+	},
+	{
+		"id" : 687,
+		"name" : "EL TEJERO",
+		"municipio_id" : 198
+	},
+	{
+		"id" : 688,
+		"name" : "CAPITAL LIBERTADOR ",
+		"municipio_id" : 203
+	},
+	{
+		"id" : 689,
+		"name" : "CHAGUARAMAS",
+		"municipio_id" : 203
+	},
+	{
+		"id" : 690,
+		"name" : "LAS ALHUACAS",
+		"municipio_id" : 203
+	},
+	{
+		"id" : 691,
+		"name" : "TABASCA",
+		"municipio_id" : 203
+	},
+	{
+		"id" : 692,
+		"name" : "CAPITAL MATURÍN ",
+		"municipio_id" : 210
+	},
+	{
+		"id" : 693,
+		"name" : "ALTO DE LOS GODOS",
+		"municipio_id" : 210
+	},
+	{
+		"id" : 694,
+		"name" : "BOQUERÓN",
+		"municipio_id" : 210
+	},
+	{
+		"id" : 695,
+		"name" : "LAS COCUIZAS",
+		"municipio_id" : 210
+	},
+	{
+		"id" : 696,
+		"name" : "SAN SIMÓN",
+		"municipio_id" : 210
+	},
+	{
+		"id" : 697,
+		"name" : "SANTA CRUZ",
+		"municipio_id" : 210
+	},
+	{
+		"id" : 698,
+		"name" : "EL COROZO",
+		"municipio_id" : 210
+	},
+	{
+		"id" : 699,
+		"name" : "EL FURRIAL",
+		"municipio_id" : 210
+	},
+	{
+		"id" : 700,
+		"name" : "JUSEPÍN",
+		"municipio_id" : 210
+	},
+	{
+		"id" : 701,
+		"name" : "LA PICA",
+		"municipio_id" : 210
+	},
+	{
+		"id" : 702,
+		"name" : "SAN VICENTE",
+		"municipio_id" : 210
+	},
+	{
+		"id" : 703,
+		"name" : "CAPITAL PIAR ",
+		"municipio_id" : 199
+	},
+	{
+		"id" : 704,
+		"name" : "APARICIO",
+		"municipio_id" : 199
+	},
+	{
+		"id" : 705,
+		"name" : "CHAGUARAMAL",
+		"municipio_id" : 199
+	},
+	{
+		"id" : 706,
+		"name" : "EL PINTO",
+		"municipio_id" : 199
+	},
+	{
+		"id" : 707,
+		"name" : "GUANAGUANA",
+		"municipio_id" : 199
+	},
+	{
+		"id" : 708,
+		"name" : "LA TOSCANA",
+		"municipio_id" : 199
+	},
+	{
+		"id" : 709,
+		"name" : "TAGUAYA",
+		"municipio_id" : 199
+	},
+	{
+		"id" : 710,
+		"name" : "CAPITAL PUNCERES ",
+		"municipio_id" : 202
+	},
+	{
+		"id" : 711,
+		"name" : "CACHIPO",
+		"municipio_id" : 202
+	},
+	{
+		"id" : 712,
+		"name" : "CAPITAL SANTA BÁRBARA ",
+		"municipio_id" : 209
+	},
+	{
+		"id" : 713,
+		"name" : "CAPITAL SOTILLO ",
+		"municipio_id" : 200
+	},
+	{
+		"id" : 714,
+		"name" : "LOS BARRANCOS DE FAJARDO",
+		"municipio_id" : 200
+	},
+	{
+		"id" : 715,
+		"name" : "CAPITAL URACOA ",
+		"municipio_id" : 207
+	},
+	{
+		"id" : 716,
+		"name" : "CAPITAL ANTOLÍN DEL CAMPO ",
+		"municipio_id" : 218
+	},
+	{
+		"id" : 717,
+		"name" : "CAPITAL ARISMENDI ",
+		"municipio_id" : 213
+	},
+	{
+		"id" : 718,
+		"name" : "CAPITAL DÍAZ ",
+		"municipio_id" : 219
+	},
+	{
+		"id" : 719,
+		"name" : "ZABALA",
+		"municipio_id" : 219
+	},
+	{
+		"id" : 720,
+		"name" : "CAPITAL GARCÍA ",
+		"municipio_id" : 217
+	},
+	{
+		"id" : 721,
+		"name" : "FRANCISCO FAJARDO",
+		"municipio_id" : 217
+	},
+	{
+		"id" : 722,
+		"name" : "CAPITAL GÓMEZ ",
+		"municipio_id" : 220
+	},
+	{
+		"id" : 723,
+		"name" : "BOLÍVAR",
+		"municipio_id" : 220
+	},
+	{
+		"id" : 724,
+		"name" : "GUEVARA",
+		"municipio_id" : 220
+	},
+	{
+		"id" : 725,
+		"name" : "MATASIETE",
+		"municipio_id" : 220
+	},
+	{
+		"id" : 726,
+		"name" : "SUCRE",
+		"municipio_id" : 220
+	},
+	{
+		"id" : 727,
+		"name" : "CAPITAL MANEIRO ",
+		"municipio_id" : 221
+	},
+	{
+		"id" : 728,
+		"name" : "AGUIRRE",
+		"municipio_id" : 221
+	},
+	{
+		"id" : 729,
+		"name" : "CAPITAL MARCANO ",
+		"municipio_id" : 212
+	},
+	{
+		"id" : 730,
+		"name" : "ADRIÁN",
+		"municipio_id" : 212
+	},
+	{
+		"id" : 731,
+		"name" : "CAPITAL MARIÑO ",
+		"municipio_id" : 216
+	},
+	{
+		"id" : 732,
+		"name" : "CAPITAL PENÍNSULA DE MACANAO ",
+		"municipio_id" : 215
+	},
+	{
+		"id" : 733,
+		"name" : "SAN FRANCISCO",
+		"municipio_id" : 215
+	},
+	{
+		"id" : 734,
+		"name" : "CAPITAL TUBORES ",
+		"municipio_id" : 214
+	},
+	{
+		"id" : 735,
+		"name" : "LOS BARALES",
+		"municipio_id" : 214
+	},
+	{
+		"id" : 736,
+		"name" : "CAPITAL VILLALBA ",
+		"municipio_id" : 211
+	},
+	{
+		"id" : 737,
+		"name" : "VICENTE FUENTES",
+		"municipio_id" : 211
+	},
+	{
+		"id" : 738,
+		"name" : "PARROQUIA CAPITAL AGUA BLANCA ",
+		"municipio_id" : 222
+	},
+	{
+		"id" : 739,
+		"name" : "CAPITAL ARAURE ",
+		"municipio_id" : 231
+	},
+	{
+		"id" : 740,
+		"name" : "RÍO ACARIGUA",
+		"municipio_id" : 231
+	},
+	{
+		"id" : 741,
+		"name" : "CAPITAL ESTELLER ",
+		"municipio_id" : 229
+	},
+	{
+		"id" : 742,
+		"name" : "UVERAL",
+		"municipio_id" : 229
+	},
+	{
+		"id" : 743,
+		"name" : "CAPITAL GUANARE",
+		"municipio_id" : 227
+	},
+	{
+		"id" : 744,
+		"name" : "CÓRDOBA",
+		"municipio_id" : 227
+	},
+	{
+		"id" : 745,
+		"name" : "SAN JOSÉ DE LA MONTAÑA",
+		"municipio_id" : 227
+	},
+	{
+		"id" : 746,
+		"name" : "SAN JUAN DE GUANAGUANARE",
+		"municipio_id" : 227
+	},
+	{
+		"id" : 747,
+		"name" : "VIRGEN DE LA COROMOTO",
+		"municipio_id" : 227
+	},
+	{
+		"id" : 748,
+		"name" : "CAPITAL GUANARITO ",
+		"municipio_id" : 234
+	},
+	{
+		"id" : 749,
+		"name" : "TRINIDAD DE LA CAPILLA",
+		"municipio_id" : 234
+	},
+	{
+		"id" : 750,
+		"name" : "DIVINA PASTORA ",
+		"municipio_id" : 234
+	},
+	{
+		"id" : 751,
+		"name" : "CAPITAL MONSEÑOR JOSÉ VICENTE DE UNDA ",
+		"municipio_id" : 228
+	},
+	{
+		"id" : 752,
+		"name" : "PEÑA BLANCA ",
+		"municipio_id" : 228
+	},
+	{
+		"id" : 753,
+		"name" : "CAPITAL OSPINO ",
+		"municipio_id" : 232
+	},
+	{
+		"id" : 754,
+		"name" : "APARICIÓN",
+		"municipio_id" : 232
+	},
+	{
+		"id" : 755,
+		"name" : "LA ESTACIÓN ",
+		"municipio_id" : 232
+	},
+	{
+		"id" : 756,
+		"name" : "CAPITAL PÁEZ ",
+		"municipio_id" : 233
+	},
+	{
+		"id" : 757,
+		"name" : "PAYARA",
+		"municipio_id" : 233
+	},
+	{
+		"id" : 758,
+		"name" : "PIMPINELA",
+		"municipio_id" : 233
+	},
+	{
+		"id" : 759,
+		"name" : "RAMÓN PERAZA ",
+		"municipio_id" : 233
+	},
+	{
+		"id" : 760,
+		"name" : "CAPITAL PAPELÓN ",
+		"municipio_id" : 223
+	},
+	{
+		"id" : 761,
+		"name" : "CAÑO DELGADITO",
+		"municipio_id" : 223
+	},
+	{
+		"id" : 762,
+		"name" : "CAPITAL SAN GENARO DE BOCONOITO ",
+		"municipio_id" : 224
+	},
+	{
+		"id" : 763,
+		"name" : "ANTOLÍN TOVAR",
+		"municipio_id" : 224
+	},
+	{
+		"id" : 764,
+		"name" : "CAPITAL SAN RAFAEL DE ONOTO",
+		"municipio_id" : 235
+	},
+	{
+		"id" : 765,
+		"name" : "SANTA FE ",
+		"municipio_id" : 235
+	},
+	{
+		"id" : 766,
+		"name" : "THERMO MORLES ",
+		"municipio_id" : 235
+	},
+	{
+		"id" : 767,
+		"name" : "CAPITAL SANTA ROSALÍA ",
+		"municipio_id" : 225
+	},
+	{
+		"id" : 768,
+		"name" : "FLORIDA",
+		"municipio_id" : 225
+	},
+	{
+		"id" : 769,
+		"name" : "CAPITAL SUCRE ",
+		"municipio_id" : 230
+	},
+	{
+		"id" : 770,
+		"name" : "CONCEPCIÓN",
+		"municipio_id" : 230
+	},
+	{
+		"id" : 771,
+		"name" : "SAN RAFAEL DE PALO ALZADO",
+		"municipio_id" : 230
+	},
+	{
+		"id" : 772,
+		"name" : "UVENCIO ANTONIO VELÁSQUEZ",
+		"municipio_id" : 230
+	},
+	{
+		"id" : 773,
+		"name" : "SAN JOSÉ DE SAGUAZ ",
+		"municipio_id" : 230
+	},
+	{
+		"id" : 774,
+		"name" : "VILLA ROSA ",
+		"municipio_id" : 230
+	},
+	{
+		"id" : 775,
+		"name" : "CAPITAL TURÉN",
+		"municipio_id" : 226
+	},
+	{
+		"id" : 776,
+		"name" : "CANELONES",
+		"municipio_id" : 226
+	},
+	{
+		"id" : 777,
+		"name" : "SANTA CRUZ",
+		"municipio_id" : 226
+	},
+	{
+		"id" : 778,
+		"name" : "SAN ISIDRO LABRADOR",
+		"municipio_id" : 226
+	},
+	{
+		"id" : 779,
+		"name" : "MARIÑO",
+		"municipio_id" : 240
+	},
+	{
+		"id" : 780,
+		"name" : "RÓMULO GALLEGOS",
+		"municipio_id" : 240
+	},
+	{
+		"id" : 781,
+		"name" : "SAN JOSÉ DE AEROCUAR",
+		"municipio_id" : 238
+	},
+	{
+		"id" : 782,
+		"name" : "TAVERA ACOSTA",
+		"municipio_id" : 238
+	},
+	{
+		"id" : 783,
+		"name" : "RÍO CARIBE",
+		"municipio_id" : 248
+	},
+	{
+		"id" : 784,
+		"name" : "ANTONIO JOSÉ DE SUCRE",
+		"municipio_id" : 248
+	},
+	{
+		"id" : 785,
+		"name" : "EL MORRO DE PUERTO SANTO",
+		"municipio_id" : 248
+	},
+	{
+		"id" : 786,
+		"name" : "PUERTO SANTO",
+		"municipio_id" : 248
+	},
+	{
+		"id" : 787,
+		"name" : "SAN JUAN DE LAS GALDONAS",
+		"municipio_id" : 248
+	},
+	{
+		"id" : 788,
+		"name" : "EL PILAR",
+		"municipio_id" : 241
+	},
+	{
+		"id" : 789,
+		"name" : "EL RINCÓN",
+		"municipio_id" : 241
+	},
+	{
+		"id" : 790,
+		"name" : "GENERAL FRANCISCO ANTONIO VÁSQUEZ",
+		"municipio_id" : 241
+	},
+	{
+		"id" : 791,
+		"name" : "GUARAÚNOS",
+		"municipio_id" : 241
+	},
+	{
+		"id" : 792,
+		"name" : "TUNAPUICITO",
+		"municipio_id" : 241
+	},
+	{
+		"id" : 793,
+		"name" : "UNIÓN",
+		"municipio_id" : 241
+	},
+	{
+		"id" : 794,
+		"name" : "BOLÍVAR ",
+		"municipio_id" : 239
+	},
+	{
+		"id" : 795,
+		"name" : "MACARAPANA",
+		"municipio_id" : 239
+	},
+	{
+		"id" : 796,
+		"name" : "SANTA CATALINA",
+		"municipio_id" : 239
+	},
+	{
+		"id" : 797,
+		"name" : "SANTA ROSA",
+		"municipio_id" : 239
+	},
+	{
+		"id" : 798,
+		"name" : "SANTA TERESA",
+		"municipio_id" : 239
+	},
+	{
+		"id" : 799,
+		"name" : "CAPITAL BOLÍVAR ",
+		"municipio_id" : 245
+	},
+	{
+		"id" : 800,
+		"name" : "YAGUARAPARO",
+		"municipio_id" : 249
+	},
+	{
+		"id" : 801,
+		"name" : "EL PAUJIL",
+		"municipio_id" : 249
+	},
+	{
+		"id" : 802,
+		"name" : "LIBERTAD",
+		"municipio_id" : 249
+	},
+	{
+		"id" : 803,
+		"name" : "ARAYA",
+		"municipio_id" : 250
+	},
+	{
+		"id" : 804,
+		"name" : "CHACOPATA",
+		"municipio_id" : 250
+	},
+	{
+		"id" : 805,
+		"name" : "MANICUARE",
+		"municipio_id" : 250
+	},
+	{
+		"id" : 806,
+		"name" : "TUNAPUY",
+		"municipio_id" : 246
+	},
+	{
+		"id" : 807,
+		"name" : "CAMPO ELÍAS",
+		"municipio_id" : 246
+	},
+	{
+		"id" : 808,
+		"name" : "IRAPA",
+		"municipio_id" : 237
+	},
+	{
+		"id" : 809,
+		"name" : "CAMPO CLARO",
+		"municipio_id" : 237
+	},
+	{
+		"id" : 810,
+		"name" : "MARABAL",
+		"municipio_id" : 237
+	},
+	{
+		"id" : 811,
+		"name" : "SAN ANTONIO DE IRAPA",
+		"municipio_id" : 237
+	},
+	{
+		"id" : 812,
+		"name" : "SORO",
+		"municipio_id" : 237
+	},
+	{
+		"id" : 813,
+		"name" : "CAPITAL MEJÍA ",
+		"municipio_id" : 243
+	},
+	{
+		"id" : 814,
+		"name" : "CUMANACOA",
+		"municipio_id" : 236
+	},
+	{
+		"id" : 815,
+		"name" : "ARENAS",
+		"municipio_id" : 236
+	},
+	{
+		"id" : 816,
+		"name" : "ARICAGUA",
+		"municipio_id" : 236
+	},
+	{
+		"id" : 817,
+		"name" : "COCOLLAR",
+		"municipio_id" : 236
+	},
+	{
+		"id" : 818,
+		"name" : "SAN FERNANDO",
+		"municipio_id" : 236
+	},
+	{
+		"id" : 819,
+		"name" : "SAN LORENZO",
+		"municipio_id" : 236
+	},
+	{
+		"id" : 820,
+		"name" : "VILLA FRONTADO (MUELLE DE CARIACO)",
+		"municipio_id" : 242
+	},
+	{
+		"id" : 821,
+		"name" : "CATUARO",
+		"municipio_id" : 242
+	},
+	{
+		"id" : 822,
+		"name" : "RENDÓN",
+		"municipio_id" : 242
+	},
+	{
+		"id" : 823,
+		"name" : "SANTA CRUZ",
+		"municipio_id" : 242
+	},
+	{
+		"id" : 824,
+		"name" : "SANTA MARÍA",
+		"municipio_id" : 242
+	},
+	{
+		"id" : 825,
+		"name" : "ALTAGRACIA",
+		"municipio_id" : 244
+	},
+	{
+		"id" : 826,
+		"name" : "AYACUCHO",
+		"municipio_id" : 244
+	},
+	{
+		"id" : 827,
+		"name" : "SANTA INÉS",
+		"municipio_id" : 244
+	},
+	{
+		"id" : 828,
+		"name" : "VALENTÍN VALIENTE",
+		"municipio_id" : 244
+	},
+	{
+		"id" : 829,
+		"name" : "SAN JUAN",
+		"municipio_id" : 244
+	},
+	{
+		"id" : 830,
+		"name" : "RAÚL LEONI",
+		"municipio_id" : 244
+	},
+	{
+		"id" : 831,
+		"name" : "SANTA FE",
+		"municipio_id" : 244
+	},
+	{
+		"id" : 832,
+		"name" : "GÜIRIA",
+		"municipio_id" : 247
+	},
+	{
+		"id" : 833,
+		"name" : "BIDEAU",
+		"municipio_id" : 247
+	},
+	{
+		"id" : 834,
+		"name" : "CRISTÓBAL COLÓN",
+		"municipio_id" : 247
+	},
+	{
+		"id" : 835,
+		"name" : "PUNTA DE PIEDRAS",
+		"municipio_id" : 247
+	},
+	{
+		"id" : 836,
+		"name" : "CAPITAL ANDRÉS BELLO ",
+		"municipio_id" : 264
+	},
+	{
+		"id" : 837,
+		"name" : "CAPITAL ANTONIO RÓMULO COSTA ",
+		"municipio_id" : 270
+	},
+	{
+		"id" : 838,
+		"name" : "AYACUCHO ",
+		"municipio_id" : 272
+	},
+	{
+		"id" : 839,
+		"name" : "RIVAS BERTI",
+		"municipio_id" : 272
+	},
+	{
+		"id" : 840,
+		"name" : "SAN PEDRO DEL RÍO",
+		"municipio_id" : 272
+	},
+	{
+		"id" : 841,
+		"name" : "BOLÍVAR",
+		"municipio_id" : 266
+	},
+	{
+		"id" : 842,
+		"name" : "PALOTAL",
+		"municipio_id" : 266
+	},
+	{
+		"id" : 843,
+		"name" : "JUAN VICENTE GÓMEZ ",
+		"municipio_id" : 266
+	},
+	{
+		"id" : 844,
+		"name" : "ISAÍAS MEDINA ANGARITA ",
+		"municipio_id" : 266
+	},
+	{
+		"id" : 845,
+		"name" : "CÁRDENAS ",
+		"municipio_id" : 268
+	},
+	{
+		"id" : 846,
+		"name" : "AMENODORO RANGEL LAMÚS ",
+		"municipio_id" : 268
+	},
+	{
+		"id" : 847,
+		"name" : "LA FLORIDA",
+		"municipio_id" : 268
+	},
+	{
+		"id" : 848,
+		"name" : "CAPITAL CÓRDOBA ",
+		"municipio_id" : 265
+	},
+	{
+		"id" : 849,
+		"name" : "FERNÁNDEZ FEO ",
+		"municipio_id" : 252
+	},
+	{
+		"id" : 850,
+		"name" : "ALBERTO ADRIANI ",
+		"municipio_id" : 252
+	},
+	{
+		"id" : 851,
+		"name" : "SANTO DOMINGO",
+		"municipio_id" : 252
+	},
+	{
+		"id" : 852,
+		"name" : "CAPITAL FRANCISCO DE MIRANDA ",
+		"municipio_id" : 254
+	},
+	{
+		"id" : 853,
+		"name" : "CAPITAL GARCÍA DE HEVIA ",
+		"municipio_id" : 263
+	},
+	{
+		"id" : 854,
+		"name" : "BOCA DE GRITA",
+		"municipio_id" : 263
+	},
+	{
+		"id" : 855,
+		"name" : "JOSÉ ANTONIO PÁEZ",
+		"municipio_id" : 263
+	},
+	{
+		"id" : 856,
+		"name" : "CAPITAL GUÁSIMOS ",
+		"municipio_id" : 274
+	},
+	{
+		"id" : 857,
+		"name" : "INDEPENDENCIA ",
+		"municipio_id" : 278
+	},
+	{
+		"id" : 858,
+		"name" : "JUAN GERMÁN ROSCIO ",
+		"municipio_id" : 278
+	},
+	{
+		"id" : 859,
+		"name" : "ROMÁN CÁRDENAS ",
+		"municipio_id" : 278
+	},
+	{
+		"id" : 860,
+		"name" : "JÁUREGUI ",
+		"municipio_id" : 251
+	},
+	{
+		"id" : 861,
+		"name" : "EMILIO CONSTANTINO GUERRERO",
+		"municipio_id" : 251
+	},
+	{
+		"id" : 862,
+		"name" : "MONSEÑOR MIGUEL ANTONIO SALAS ",
+		"municipio_id" : 251
+	},
+	{
+		"id" : 863,
+		"name" : "CAPITAL JOSÉ MARÍA VARGAS ",
+		"municipio_id" : 267
+	},
+	{
+		"id" : 864,
+		"name" : "JUNÍN ",
+		"municipio_id" : 258
+	},
+	{
+		"id" : 865,
+		"name" : "LA PETRÓLEA",
+		"municipio_id" : 258
+	},
+	{
+		"id" : 866,
+		"name" : "QUINIMARÍ",
+		"municipio_id" : 258
+	},
+	{
+		"id" : 867,
+		"name" : "BRAMÓN",
+		"municipio_id" : 258
+	},
+	{
+		"id" : 868,
+		"name" : "LIBERTAD ",
+		"municipio_id" : 253
+	},
+	{
+		"id" : 869,
+		"name" : "CIPRIANO CASTRO",
+		"municipio_id" : 253
+	},
+	{
+		"id" : 870,
+		"name" : "MANUEL FELIPE RUGELES",
+		"municipio_id" : 253
+	},
+	{
+		"id" : 871,
+		"name" : "LIBERTADOR ",
+		"municipio_id" : 275
+	},
+	{
+		"id" : 872,
+		"name" : "EMETERIO OCHOA",
+		"municipio_id" : 275
+	},
+	{
+		"id" : 873,
+		"name" : "DORADAS",
+		"municipio_id" : 275
+	},
+	{
+		"id" : 874,
+		"name" : "SAN JOAQUÍN DE NAVAY",
+		"municipio_id" : 275
+	},
+	{
+		"id" : 875,
+		"name" : "LOBATERA ",
+		"municipio_id" : 277
+	},
+	{
+		"id" : 876,
+		"name" : "CONSTITUCIÓN",
+		"municipio_id" : 277
+	},
+	{
+		"id" : 877,
+		"name" : "CAPITAL MICHELENA ",
+		"municipio_id" : 256
+	},
+	{
+		"id" : 878,
+		"name" : "PANAMERICANO ",
+		"municipio_id" : 262
+	},
+	{
+		"id" : 879,
+		"name" : "LA PALMITA",
+		"municipio_id" : 262
+	},
+	{
+		"id" : 880,
+		"name" : "PEDRO MARÍA UREÑA",
+		"municipio_id" : 257
+	},
+	{
+		"id" : 881,
+		"name" : "NUEVA ARCADIA",
+		"municipio_id" : 257
+	},
+	{
+		"id" : 882,
+		"name" : "CAPITAL RAFAEL URDANETA ",
+		"municipio_id" : 276
+	},
+	{
+		"id" : 883,
+		"name" : "SAMUEL DARÍO MALDONADO ",
+		"municipio_id" : 260
+	},
+	{
+		"id" : 884,
+		"name" : "BOCONÓ",
+		"municipio_id" : 260
+	},
+	{
+		"id" : 885,
+		"name" : "HERNÁNDEZ",
+		"municipio_id" : 260
+	},
+	{
+		"id" : 886,
+		"name" : "LA CONCORDIA",
+		"municipio_id" : 273
+	},
+	{
+		"id" : 887,
+		"name" : "PEDRO MARÍA MORANTES",
+		"municipio_id" : 273
+	},
+	{
+		"id" : 888,
+		"name" : "SAN JUAN BAUTISTA",
+		"municipio_id" : 273
+	},
+	{
+		"id" : 889,
+		"name" : "SAN SEBASTIÁN",
+		"municipio_id" : 273
+	},
+	{
+		"id" : 890,
+		"name" : "DR. FRANCISCO ROMERO LOBO 1",
+		"municipio_id" : 273
+	},
+	{
+		"id" : 891,
+		"name" : "CAPITAL SEBORUCO ",
+		"municipio_id" : 261
+	},
+	{
+		"id" : 892,
+		"name" : "CAPITAL SIMÓN RODRÍGUEZ ",
+		"municipio_id" : 259
+	},
+	{
+		"id" : 893,
+		"name" : "SUCRE ",
+		"municipio_id" : 271
+	},
+	{
+		"id" : 894,
+		"name" : "ELEAZAR LÓPEZ CONTRERAS",
+		"municipio_id" : 271
+	},
+	{
+		"id" : 895,
+		"name" : "SAN PABLO",
+		"municipio_id" : 271
+	},
+	{
+		"id" : 896,
+		"name" : "CAPITAL TORBES ",
+		"municipio_id" : 279
+	},
+	{
+		"id" : 897,
+		"name" : "CAPITAL URIBANTE ",
+		"municipio_id" : 269
+	},
+	{
+		"id" : 898,
+		"name" : "CÁRDENAS",
+		"municipio_id" : 269
+	},
+	{
+		"id" : 899,
+		"name" : "JUAN PABLO PEÑALOZA 2",
+		"municipio_id" : 269
+	},
+	{
+		"id" : 900,
+		"name" : "POTOSÍ",
+		"municipio_id" : 269
+	},
+	{
+		"id" : 901,
+		"name" : "CAPITAL SAN JUDAS TADEO ",
+		"municipio_id" : 255
+	},
+	{
+		"id" : 902,
+		"name" : "SANTA ISABEL ",
+		"municipio_id" : 288
+	},
+	{
+		"id" : 903,
+		"name" : "ARAGUANEY ",
+		"municipio_id" : 288
+	},
+	{
+		"id" : 904,
+		"name" : "EL JAGÜITO ",
+		"municipio_id" : 288
+	},
+	{
+		"id" : 905,
+		"name" : "LA ESPERANZA ",
+		"municipio_id" : 288
+	},
+	{
+		"id" : 906,
+		"name" : "BOCONÓ",
+		"municipio_id" : 283
+	},
+	{
+		"id" : 907,
+		"name" : "EL CARMEN",
+		"municipio_id" : 283
+	},
+	{
+		"id" : 908,
+		"name" : "MOSQUEY",
+		"municipio_id" : 283
+	},
+	{
+		"id" : 909,
+		"name" : "AYACUCHO",
+		"municipio_id" : 283
+	},
+	{
+		"id" : 910,
+		"name" : "BURBUSAY",
+		"municipio_id" : 283
+	},
+	{
+		"id" : 911,
+		"name" : "GENERAL RIVAS",
+		"municipio_id" : 283
+	},
+	{
+		"id" : 912,
+		"name" : "GUARAMACAL",
+		"municipio_id" : 283
+	},
+	{
+		"id" : 913,
+		"name" : "VEGA DE GUARAMACAL ",
+		"municipio_id" : 283
+	},
+	{
+		"id" : 914,
+		"name" : "MONSEÑOR JÁUREGUI",
+		"municipio_id" : 283
+	},
+	{
+		"id" : 915,
+		"name" : "RAFAEL RANGEL",
+		"municipio_id" : 283
+	},
+	{
+		"id" : 916,
+		"name" : "SAN MIGUEL",
+		"municipio_id" : 283
+	},
+	{
+		"id" : 917,
+		"name" : "SAN JOSÉ",
+		"municipio_id" : 283
+	},
+	{
+		"id" : 918,
+		"name" : "SABANA GRANDE ",
+		"municipio_id" : 289
+	},
+	{
+		"id" : 919,
+		"name" : "CHEREGÜÉ  ",
+		"municipio_id" : 289
+	},
+	{
+		"id" : 920,
+		"name" : "GRANADOS ",
+		"municipio_id" : 289
+	},
+	{
+		"id" : 921,
+		"name" : "CHEJENDÉ",
+		"municipio_id" : 286
+	},
+	{
+		"id" : 922,
+		"name" : "ARNOLDO GABALDÓN ",
+		"municipio_id" : 286
+	},
+	{
+		"id" : 923,
+		"name" : "BOLIVIA",
+		"municipio_id" : 286
+	},
+	{
+		"id" : 924,
+		"name" : "CARRILLO",
+		"municipio_id" : 286
+	},
+	{
+		"id" : 925,
+		"name" : "CEGARRA",
+		"municipio_id" : 286
+	},
+	{
+		"id" : 926,
+		"name" : "MANUEL SALVADOR ULLOA ",
+		"municipio_id" : 286
+	},
+	{
+		"id" : 927,
+		"name" : "SAN JOSÉ ",
+		"municipio_id" : 286
+	},
+	{
+		"id" : 928,
+		"name" : "CARACHE",
+		"municipio_id" : 284
+	},
+	{
+		"id" : 929,
+		"name" : "CUICAS",
+		"municipio_id" : 284
+	},
+	{
+		"id" : 930,
+		"name" : "LA CONCEPCIÓN",
+		"municipio_id" : 284
+	},
+	{
+		"id" : 931,
+		"name" : "PANAMERICANA ",
+		"municipio_id" : 284
+	},
+	{
+		"id" : 932,
+		"name" : "SANTA CRUZ ",
+		"municipio_id" : 284
+	},
+	{
+		"id" : 933,
+		"name" : "ESCUQUE",
+		"municipio_id" : 282
+	},
+	{
+		"id" : 934,
+		"name" : "LA UNIÓN",
+		"municipio_id" : 282
+	},
+	{
+		"id" : 935,
+		"name" : "SABANA LIBRE",
+		"municipio_id" : 282
+	},
+	{
+		"id" : 936,
+		"name" : "SANTA RITA ",
+		"municipio_id" : 282
+	},
+	{
+		"id" : 937,
+		"name" : "EL SOCORRO",
+		"municipio_id" : 295
+	},
+	{
+		"id" : 938,
+		"name" : "ANTONIO JOSÉ DE SUCRE",
+		"municipio_id" : 295
+	},
+	{
+		"id" : 939,
+		"name" : "LOS CAPRICHOS",
+		"municipio_id" : 295
+	},
+	{
+		"id" : 940,
+		"name" : "CAMPO ELÍAS",
+		"municipio_id" : 292
+	},
+	{
+		"id" : 941,
+		"name" : "ARNOLDO GABALDÓN",
+		"municipio_id" : 292
+	},
+	{
+		"id" : 942,
+		"name" : "SANTA APOLONIA",
+		"municipio_id" : 294
+	},
+	{
+		"id" : 943,
+		"name" : "EL PROGRESO ",
+		"municipio_id" : 294
+	},
+	{
+		"id" : 944,
+		"name" : "LA CEIBA ",
+		"municipio_id" : 294
+	},
+	{
+		"id" : 945,
+		"name" : "TRES DE FEBRERO ",
+		"municipio_id" : 294
+	},
+	{
+		"id" : 946,
+		"name" : "EL DIVIDIVE",
+		"municipio_id" : 297
+	},
+	{
+		"id" : 947,
+		"name" : "AGUA SANTA",
+		"municipio_id" : 297
+	},
+	{
+		"id" : 948,
+		"name" : "AGUA CALIENTE",
+		"municipio_id" : 297
+	},
+	{
+		"id" : 949,
+		"name" : "EL CENIZO",
+		"municipio_id" : 297
+	},
+	{
+		"id" : 950,
+		"name" : "VALERITA",
+		"municipio_id" : 297
+	},
+	{
+		"id" : 951,
+		"name" : "MONTE CARMELO",
+		"municipio_id" : 291
+	},
+	{
+		"id" : 952,
+		"name" : "BUENA VISTA",
+		"municipio_id" : 291
+	},
+	{
+		"id" : 953,
+		"name" : "SANTA MARÍA DEL HORCÓN",
+		"municipio_id" : 291
+	},
+	{
+		"id" : 954,
+		"name" : "MOTATÁN",
+		"municipio_id" : 298
+	},
+	{
+		"id" : 955,
+		"name" : "EL BAÑO",
+		"municipio_id" : 298
+	},
+	{
+		"id" : 956,
+		"name" : "JALISCO",
+		"municipio_id" : 298
+	},
+	{
+		"id" : 957,
+		"name" : "PAMPÁN",
+		"municipio_id" : 287
+	},
+	{
+		"id" : 958,
+		"name" : "LA PAZ",
+		"municipio_id" : 287
+	},
+	{
+		"id" : 959,
+		"name" : "SANTA ANA",
+		"municipio_id" : 287
+	},
+	{
+		"id" : 960,
+		"name" : "PAMPANITO",
+		"municipio_id" : 293
+	},
+	{
+		"id" : 961,
+		"name" : "LA CONCEPCIÓN",
+		"municipio_id" : 293
+	},
+	{
+		"id" : 962,
+		"name" : "BETIJOQUE",
+		"municipio_id" : 296
+	},
+	{
+		"id" : 963,
+		"name" : "LA PUEBLITA",
+		"municipio_id" : 296
+	},
+	{
+		"id" : 964,
+		"name" : "LOS CEDROS",
+		"municipio_id" : 296
+	},
+	{
+		"id" : 965,
+		"name" : "CARVAJAL",
+		"municipio_id" : 290
+	},
+	{
+		"id" : 966,
+		"name" : "ANTONIO NICOLÁS BRICEÑO",
+		"municipio_id" : 290
+	},
+	{
+		"id" : 967,
+		"name" : "CAMPO ALEGRE",
+		"municipio_id" : 290
+	},
+	{
+		"id" : 968,
+		"name" : "JOSÉ LEONARDO SUÁREZ",
+		"municipio_id" : 290
+	},
+	{
+		"id" : 969,
+		"name" : "SABANA DE MENDOZA",
+		"municipio_id" : 285
+	},
+	{
+		"id" : 970,
+		"name" : "EL PARAÍSO",
+		"municipio_id" : 285
+	},
+	{
+		"id" : 971,
+		"name" : "JUNÍN",
+		"municipio_id" : 285
+	},
+	{
+		"id" : 972,
+		"name" : "VALMORE RODRÍGUEZ",
+		"municipio_id" : 285
+	},
+	{
+		"id" : 973,
+		"name" : "ANDRÉS LINARES",
+		"municipio_id" : 281
+	},
+	{
+		"id" : 974,
+		"name" : "CRISTÓBAL MENDOZA",
+		"municipio_id" : 281
+	},
+	{
+		"id" : 975,
+		"name" : "CRUZ CARRILLO",
+		"municipio_id" : 281
+	},
+	{
+		"id" : 976,
+		"name" : "MATRIZ",
+		"municipio_id" : 281
+	},
+	{
+		"id" : 977,
+		"name" : "MONSEÑOR CARRILLO",
+		"municipio_id" : 281
+	},
+	{
+		"id" : 978,
+		"name" : "LA QUEBRADA",
+		"municipio_id" : 299
+	},
+	{
+		"id" : 979,
+		"name" : "CABIMBÚ",
+		"municipio_id" : 299
+	},
+	{
+		"id" : 980,
+		"name" : "JAJÓ",
+		"municipio_id" : 299
+	},
+	{
+		"id" : 981,
+		"name" : "LA MESA",
+		"municipio_id" : 299
+	},
+	{
+		"id" : 982,
+		"name" : "SANTIAGO",
+		"municipio_id" : 299
+	},
+	{
+		"id" : 983,
+		"name" : "TUÑAME",
+		"municipio_id" : 299
+	},
+	{
+		"id" : 984,
+		"name" : "JUAN IGNACIO MONTILLA",
+		"municipio_id" : 280
+	},
+	{
+		"id" : 985,
+		"name" : "LA BEATRIZ",
+		"municipio_id" : 280
+	},
+	{
+		"id" : 986,
+		"name" : "MERCEDES DÍAZ",
+		"municipio_id" : 280
+	},
+	{
+		"id" : 987,
+		"name" : "SAN LUIS",
+		"municipio_id" : 280
+	},
+	{
+		"id" : 988,
+		"name" : "LA PUERTA",
+		"municipio_id" : 280
+	},
+	{
+		"id" : 989,
+		"name" : "MENDOZA",
+		"municipio_id" : 280
+	},
+	{
+		"id" : 990,
+		"name" : "CAPITAL ARÍSTIDES BASTIDAS ",
+		"municipio_id" : 314
+	},
+	{
+		"id" : 991,
+		"name" : "CAPITAL BOLÍVAR ",
+		"municipio_id" : 303
+	},
+	{
+		"id" : 992,
+		"name" : "CAPITAL BRUZUAL ",
+		"municipio_id" : 310
+	},
+	{
+		"id" : 993,
+		"name" : "CAMPO ELÍAS",
+		"municipio_id" : 310
+	},
+	{
+		"id" : 994,
+		"name" : "CAPITAL COCOROTE ",
+		"municipio_id" : 306
+	},
+	{
+		"id" : 995,
+		"name" : "CAPITAL INDEPENDENCIA ",
+		"municipio_id" : 307
+	},
+	{
+		"id" : 996,
+		"name" : "CAPITAL JOSÉ ANTONIO PÁEZ ",
+		"municipio_id" : 302
+	},
+	{
+		"id" : 997,
+		"name" : "CAPITAL LA TRINIDAD ",
+		"municipio_id" : 308
+	},
+	{
+		"id" : 998,
+		"name" : "CAPITAL MANUEL MONGE ",
+		"municipio_id" : 313
+	},
+	{
+		"id" : 999,
+		"name" : "CAPITAL NIRGUA ",
+		"municipio_id" : 305
+	},
+	{
+		"id" : 1000,
+		"name" : "SALOM",
+		"municipio_id" : 305
+	},
+	{
+		"id" : 1001,
+		"name" : "TEMERLA",
+		"municipio_id" : 305
+	},
+	{
+		"id" : 1002,
+		"name" : "CAPITAL PEÑA ",
+		"municipio_id" : 312
+	},
+	{
+		"id" : 1003,
+		"name" : "SAN ANDRÉS",
+		"municipio_id" : 312
+	},
+	{
+		"id" : 1004,
+		"name" : "CAPITAL SAN FELIPE ",
+		"municipio_id" : 301
+	},
+	{
+		"id" : 1005,
+		"name" : "ALBARICO",
+		"municipio_id" : 301
+	},
+	{
+		"id" : 1006,
+		"name" : "SAN JAVIER",
+		"municipio_id" : 301
+	},
+	{
+		"id" : 1007,
+		"name" : "CAPITAL SUCRE ",
+		"municipio_id" : 309
+	},
+	{
+		"id" : 1008,
+		"name" : "CAPITAL URACHICHE ",
+		"municipio_id" : 304
+	},
+	{
+		"id" : 1009,
+		"name" : "CAPITAL VEROES ",
+		"municipio_id" : 311
+	},
+	{
+		"id" : 1010,
+		"name" : "EL GUAYABO ",
+		"municipio_id" : 311
+	},
+	{
+		"id" : 1011,
+		"name" : "ISLA DE TOAS",
+		"municipio_id" : 329
+	},
+	{
+		"id" : 1012,
+		"name" : "MONAGAS",
+		"municipio_id" : 329
+	},
+	{
+		"id" : 1013,
+		"name" : "SAN TIMOTEO",
+		"municipio_id" : 326
+	},
+	{
+		"id" : 1014,
+		"name" : "GENERAL URDANETA",
+		"municipio_id" : 326
+	},
+	{
+		"id" : 1015,
+		"name" : "LIBERTADOR",
+		"municipio_id" : 326
+	},
+	{
+		"id" : 1016,
+		"name" : "MANUEL GUANIPA MATOS",
+		"municipio_id" : 326
+	},
+	{
+		"id" : 1017,
+		"name" : "MARCELINO BRICEÑO",
+		"municipio_id" : 326
+	},
+	{
+		"id" : 1018,
+		"name" : "PUEBLO NUEVO ",
+		"municipio_id" : 326
+	},
+	{
+		"id" : 1019,
+		"name" : "AMBROSIO",
+		"municipio_id" : 317
+	},
+	{
+		"id" : 1020,
+		"name" : "CARMEN HERRERA ",
+		"municipio_id" : 317
+	},
+	{
+		"id" : 1021,
+		"name" : "GERMÁN RÍOS LINARES",
+		"municipio_id" : 317
+	},
+	{
+		"id" : 1022,
+		"name" : "LA ROSA",
+		"municipio_id" : 317
+	},
+	{
+		"id" : 1023,
+		"name" : "JORGE HERNÁNDEZ",
+		"municipio_id" : 317
+	},
+	{
+		"id" : 1024,
+		"name" : "RÓMULO BETANCOURT ",
+		"municipio_id" : 317
+	},
+	{
+		"id" : 1025,
+		"name" : "SAN BENITO ",
+		"municipio_id" : 317
+	},
+	{
+		"id" : 1026,
+		"name" : "ARÍSTIDES CALVANI ",
+		"municipio_id" : 317
+	},
+	{
+		"id" : 1027,
+		"name" : "PUNTA GORDA",
+		"municipio_id" : 317
+	},
+	{
+		"id" : 1028,
+		"name" : "ENCONTRADOS",
+		"municipio_id" : 323
+	},
+	{
+		"id" : 1029,
+		"name" : "UDÓN PÉREZ",
+		"municipio_id" : 323
+	},
+	{
+		"id" : 1030,
+		"name" : "SAN CARLOS DEL ZULIA",
+		"municipio_id" : 331
+	},
+	{
+		"id" : 1031,
+		"name" : "MORALITO",
+		"municipio_id" : 331
+	},
+	{
+		"id" : 1032,
+		"name" : "SANTA BÁRBARA ",
+		"municipio_id" : 331
+	},
+	{
+		"id" : 1033,
+		"name" : "SANTA CRUZ DEL ZULIA",
+		"municipio_id" : 331
+	},
+	{
+		"id" : 1034,
+		"name" : "URRIBARRI",
+		"municipio_id" : 331
+	},
+	{
+		"id" : 1035,
+		"name" : "SIMÓN RODRÍGUEZ ",
+		"municipio_id" : 315
+	},
+	{
+		"id" : 1036,
+		"name" : "CARLOS QUEVEDO ",
+		"municipio_id" : 315
+	},
+	{
+		"id" : 1037,
+		"name" : "FRANCISCO JAVIER PULGAR ",
+		"municipio_id" : 315
+	},
+	{
+		"id" : 1038,
+		"name" : "LA CONCEPCIÓN",
+		"municipio_id" : 321
+	},
+	{
+		"id" : 1039,
+		"name" : "JOSÉ RAMÓN YEPES",
+		"municipio_id" : 321
+	},
+	{
+		"id" : 1040,
+		"name" : "MARIANO PARRA LEÓN",
+		"municipio_id" : 321
+	},
+	{
+		"id" : 1041,
+		"name" : "SAN JOSÉ",
+		"municipio_id" : 321
+	},
+	{
+		"id" : 1042,
+		"name" : "JESÚS MARÍA SEMPRÚN",
+		"municipio_id" : 320
+	},
+	{
+		"id" : 1043,
+		"name" : "BARÍ",
+		"municipio_id" : 320
+	},
+	{
+		"id" : 1044,
+		"name" : "CONCEPCIÓN",
+		"municipio_id" : 324
+	},
+	{
+		"id" : 1045,
+		"name" : "ANDRÉS BELLO",
+		"municipio_id" : 324
+	},
+	{
+		"id" : 1046,
+		"name" : "CHIQUINQUIRÁ",
+		"municipio_id" : 324
+	},
+	{
+		"id" : 1047,
+		"name" : "EL CARMELO",
+		"municipio_id" : 324
+	},
+	{
+		"id" : 1048,
+		"name" : "POTRERITOS",
+		"municipio_id" : 324
+	},
+	{
+		"id" : 1049,
+		"name" : "ALONSO DE OJEDA",
+		"municipio_id" : 319
+	},
+	{
+		"id" : 1050,
+		"name" : "LIBERTAD",
+		"municipio_id" : 319
+	},
+	{
+		"id" : 1051,
+		"name" : "CAMPO LARA",
+		"municipio_id" : 319
+	},
+	{
+		"id" : 1052,
+		"name" : "ELEAZAR LÓPEZ CONTRERAS",
+		"municipio_id" : 319
+	},
+	{
+		"id" : 1053,
+		"name" : "VENEZUELA",
+		"municipio_id" : 319
+	},
+	{
+		"id" : 1054,
+		"name" : "LIBERTAD",
+		"municipio_id" : 334
+	},
+	{
+		"id" : 1055,
+		"name" : "BARTOLOMÉ DE LAS CASAS",
+		"municipio_id" : 334
+	},
+	{
+		"id" : 1056,
+		"name" : "RÍO NEGRO",
+		"municipio_id" : 334
+	},
+	{
+		"id" : 1057,
+		"name" : "SAN JOSÉ DE PERIJÁ",
+		"municipio_id" : 334
+	},
+	{
+		"id" : 1058,
+		"name" : "SAN RAFAEL",
+		"municipio_id" : 335
+	},
+	{
+		"id" : 1059,
+		"name" : "LA SIERRITA",
+		"municipio_id" : 335
+	},
+	{
+		"id" : 1060,
+		"name" : "LAS PARCELAS",
+		"municipio_id" : 335
+	},
+	{
+		"id" : 1061,
+		"name" : "LUIS DE VICENTE",
+		"municipio_id" : 335
+	},
+	{
+		"id" : 1062,
+		"name" : "MONSEÑOR MARCOS SERGIO GODOY",
+		"municipio_id" : 335
+	},
+	{
+		"id" : 1063,
+		"name" : "RICAURTE",
+		"municipio_id" : 335
+	},
+	{
+		"id" : 1064,
+		"name" : "TAMARE",
+		"municipio_id" : 335
+	},
+	{
+		"id" : 1065,
+		"name" : "ANTONIO BORJAS ROMERO",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1066,
+		"name" : "BOLÍVAR",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1067,
+		"name" : "CACIQUE MARA",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1068,
+		"name" : "CARACCIOLO PARRA PÉREZ",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1069,
+		"name" : "CECILIO ACOSTA",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1070,
+		"name" : "CRISTO DE ARANZA",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1071,
+		"name" : "COQUIVACOA",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1072,
+		"name" : "CHIQUINQUIRÁ",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1073,
+		"name" : "FRANCISCO EUGENIO BUSTAMANTE",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1074,
+		"name" : "IDELFONSO VÁSQUEZ",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1075,
+		"name" : "JUANA DE AVILA",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1076,
+		"name" : "LUIS HURTADO HIGUERA",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1077,
+		"name" : "MANUEL DAGNINO",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1078,
+		"name" : "OLEGARIO VILLALOBOS",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1079,
+		"name" : "RAÚL LEONI",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1080,
+		"name" : "SANTA LUCÍA",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1081,
+		"name" : "VENANCIO PULGAR",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1082,
+		"name" : "SAN ISIDRO",
+		"municipio_id" : 327
+	},
+	{
+		"id" : 1083,
+		"name" : "ALTAGRACIA",
+		"municipio_id" : 330
+	},
+	{
+		"id" : 1084,
+		"name" : "ANA MARÍA CAMPOS",
+		"municipio_id" : 330
+	},
+	{
+		"id" : 1085,
+		"name" : "FARÍA",
+		"municipio_id" : 330
+	},
+	{
+		"id" : 1086,
+		"name" : "SAN ANTONIO",
+		"municipio_id" : 330
+	},
+	{
+		"id" : 1087,
+		"name" : "SAN JOSÉ",
+		"municipio_id" : 330
+	},
+	{
+		"id" : 1088,
+		"name" : "SINAMAICA",
+		"municipio_id" : 328
+	},
+	{
+		"id" : 1089,
+		"name" : "ALTA GUAJIRA",
+		"municipio_id" : 328
+	},
+	{
+		"id" : 1090,
+		"name" : "ELÍAS SÁNCHEZ RUBIO",
+		"municipio_id" : 328
+	},
+	{
+		"id" : 1091,
+		"name" : "GUAJIRA",
+		"municipio_id" : 328
+	},
+	{
+		"id" : 1092,
+		"name" : "EL ROSARIO",
+		"municipio_id" : 333
+	},
+	{
+		"id" : 1093,
+		"name" : "DONALDO GARCÍA",
+		"municipio_id" : 333
+	},
+	{
+		"id" : 1094,
+		"name" : "SIXTO ZAMBRANO",
+		"municipio_id" : 333
+	},
+	{
+		"id" : 1095,
+		"name" : "SAN FRANCISCO",
+		"municipio_id" : 318
+	},
+	{
+		"id" : 1096,
+		"name" : "EL BAJO",
+		"municipio_id" : 318
+	},
+	{
+		"id" : 1097,
+		"name" : "DOMITILA FLORES",
+		"municipio_id" : 318
+	},
+	{
+		"id" : 1098,
+		"name" : "FRANCISCO OCHOA",
+		"municipio_id" : 318
+	},
+	{
+		"id" : 1099,
+		"name" : "LOS CORTIJOS",
+		"municipio_id" : 318
+	},
+	{
+		"id" : 1100,
+		"name" : "MARCIAL HERNÁNDEZ",
+		"municipio_id" : 318
+	},
+	{
+		"id" : 1101,
+		"name" : "SANTA RITA",
+		"municipio_id" : 316
+	},
+	{
+		"id" : 1102,
+		"name" : "EL MENE",
+		"municipio_id" : 316
+	},
+	{
+		"id" : 1103,
+		"name" : "JOSÉ CENOVIO URRIBARRI",
+		"municipio_id" : 316
+	},
+	{
+		"id" : 1104,
+		"name" : "PEDRO LUCAS URRIBARRI",
+		"municipio_id" : 316
+	},
+	{
+		"id" : 1105,
+		"name" : "MANUEL MANRIQUE",
+		"municipio_id" : 322
+	},
+	{
+		"id" : 1106,
+		"name" : "RAFAEL URDANETA",
+		"municipio_id" : 322
+	},
+	{
+		"id" : 1107,
+		"name" : "BOBURES",
+		"municipio_id" : 332
+	},
+	{
+		"id" : 1108,
+		"name" : "EL BATEY",
+		"municipio_id" : 332
+	},
+	{
+		"id" : 1109,
+		"name" : "HERAS",
+		"municipio_id" : 332
+	},
+	{
+		"id" : 1110,
+		"name" : "MONSEÑOR ARTURO CELESTINO ALVAREZ",
+		"municipio_id" : 332
+	},
+	{
+		"id" : 1111,
+		"name" : "RÓMULO GALLEGOS",
+		"municipio_id" : 332
+	},
+	{
+		"id" : 1112,
+		"name" : "LA VICTORIA",
+		"municipio_id" : 325
+	},
+	{
+		"id" : 1113,
+		"name" : "RAFAEL URDANETA",
+		"municipio_id" : 325
+	},
+	{
+		"id" : 1114,
+		"name" : "RAÚL CUENCA",
+		"municipio_id" : 325
+	},
+	{
+		"id" : 1115,
+		"name" : "CARABALLEDA",
+		"municipio_id" : 300
+	},
+	{
+		"id" : 1116,
+		"name" : "CARAYACA",
+		"municipio_id" : 300
+	},
+	{
+		"id" : 1117,
+		"name" : "CARUAO",
+		"municipio_id" : 300
+	},
+	{
+		"id" : 1118,
+		"name" : "CATIA LA MAR",
+		"municipio_id" : 300
+	},
+	{
+		"id" : 1119,
+		"name" : "LA GUAIRA",
+		"municipio_id" : 300
+	},
+	{
+		"id" : 1120,
+		"name" : "MACUTO",
+		"municipio_id" : 300
+	},
+	{
+		"id" : 1121,
+		"name" : "MAIQUETÍA",
+		"municipio_id" : 300
+	},
+	{
+		"id" : 1122,
+		"name" : "NAIGUATÁ",
+		"municipio_id" : 300
+	},
+	{
+		"id" : 1123,
+		"name" : "RAÚL LEONI ",
+		"municipio_id" : 300
+	},
+	{
+		"id" : 1124,
+		"name" : "CARLOS SOUBLETTE ",
+		"municipio_id" : 300
+	},
+	{
+		"id" : 1125,
+		"name" : "DEPENDENCIAS FEDERALES",
+		"municipio_id" : 336
+	}
+]}

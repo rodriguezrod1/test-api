@@ -1,0 +1,1683 @@
+{
+"municipios": [
+	{
+		"id" : 1,
+		"name" : "MANAPIARE",
+		"state_id" : 4138
+	},
+	{
+		"id" : 2,
+		"name" : "MAROA",
+		"state_id" : 4138
+	},
+	{
+		"id" : 3,
+		"name" : "AUTANA",
+		"state_id" : 4138
+	},
+	{
+		"id" : 4,
+		"name" : "ALTO ORINOCO",
+		"state_id" : 4138
+	},
+	{
+		"id" : 5,
+		"name" : "ATURES",
+		"state_id" : 4138
+	},
+	{
+		"id" : 6,
+		"name" : "ATABAPO",
+		"state_id" : 4138
+	},
+	{
+		"id" : 7,
+		"name" : "RIO NEGRO",
+		"state_id" : 4138
+	},
+	{
+		"id" : 8,
+		"name" : "JUAN ANTONIO SOTILLO",
+		"state_id" : 4139
+	},
+	{
+		"id" : 9,
+		"name" : "MANUEL EZEQUIEL BRUZUAL",
+		"state_id" : 4139
+	},
+	{
+		"id" : 10,
+		"name" : "JOSÉ GREGORIO MONAGAS",
+		"state_id" : 4139
+	},
+	{
+		"id" : 11,
+		"name" : "ARAGUA",
+		"state_id" : 4139
+	},
+	{
+		"id" : 12,
+		"name" : "FERNANDO PEÑALVER",
+		"state_id" : 4139
+	},
+	{
+		"id" : 13,
+		"name" : "FRANCISCO DE MIRANDA",
+		"state_id" : 4139
+	},
+	{
+		"id" : 14,
+		"name" : "PEDRO MARÍA FREITES",
+		"state_id" : 4139
+	},
+	{
+		"id" : 15,
+		"name" : "SIMÓN BOLIVAR",
+		"state_id" : 4139
+	},
+	{
+		"id" : 16,
+		"name" : "PIRITU",
+		"state_id" : 4139
+	},
+	{
+		"id" : 17,
+		"name" : "ANACO",
+		"state_id" : 4139
+	},
+	{
+		"id" : 18,
+		"name" : "GUANTA",
+		"state_id" : 4139
+	},
+	{
+		"id" : 19,
+		"name" : "FRANCISCO DEL CARMEN CARVAJAL",
+		"state_id" : 4139
+	},
+	{
+		"id" : 20,
+		"name" : "INDEPENDENCIA",
+		"state_id" : 4139
+	},
+	{
+		"id" : 21,
+		"name" : "SAN JUAN CAPISTRANO",
+		"state_id" : 4139
+	},
+	{
+		"id" : 22,
+		"name" : "JUAN MANUEL CAJIGAL",
+		"state_id" : 4139
+	},
+	{
+		"id" : 23,
+		"name" : "DIEGO BAUTISTA URBANEJA",
+		"state_id" : 4139
+	},
+	{
+		"id" : 24,
+		"name" : "SANTA ANA",
+		"state_id" : 4139
+	},
+	{
+		"id" : 25,
+		"name" : "SIMON RODRIGUEZ",
+		"state_id" : 4139
+	},
+	{
+		"id" : 26,
+		"name" : "LIBERTAD",
+		"state_id" : 4139
+	},
+	{
+		"id" : 27,
+		"name" : "SAN JOSÉ DE GUANIPA",
+		"state_id" : 4139
+	},
+	{
+		"id" : 28,
+		"name" : "SIR ARTHUR MC GREGOR",
+		"state_id" : 4139
+	},
+	{
+		"id" : 29,
+		"name" : "PAEZ",
+		"state_id" : 4140
+	},
+	{
+		"id" : 30,
+		"name" : "BIRUACA",
+		"state_id" : 4140
+	},
+	{
+		"id" : 31,
+		"name" : "SAN FERNANDO",
+		"state_id" : 4140
+	},
+	{
+		"id" : 32,
+		"name" : "ROMULO GALLEGOS",
+		"state_id" : 4140
+	},
+	{
+		"id" : 33,
+		"name" : "MUÑOZ",
+		"state_id" : 4140
+	},
+	{
+		"id" : 34,
+		"name" : "ACHAGUAS",
+		"state_id" : 4140
+	},
+	{
+		"id" : 35,
+		"name" : "PEDRO CAMEJO",
+		"state_id" : 4140
+	},
+	{
+		"id" : 36,
+		"name" : "SANTOS MICHELENA",
+		"state_id" : 4141
+	},
+	{
+		"id" : 37,
+		"name" : "GIRARDOT",
+		"state_id" : 4141
+	},
+	{
+		"id" : 38,
+		"name" : "ZAMORA",
+		"state_id" : 4141
+	},
+	{
+		"id" : 39,
+		"name" : "SUCRE",
+		"state_id" : 4141
+	},
+	{
+		"id" : 40,
+		"name" : "TOVAR",
+		"state_id" : 4141
+	},
+	{
+		"id" : 41,
+		"name" : "BOLIVAR",
+		"state_id" : 4141
+	},
+	{
+		"id" : 42,
+		"name" : "URDANETA",
+		"state_id" : 4141
+	},
+	{
+		"id" : 43,
+		"name" : "CAMATAGUA",
+		"state_id" : 4141
+	},
+	{
+		"id" : 44,
+		"name" : "SAN CASIMIRO",
+		"state_id" : 4141
+	},
+	{
+		"id" : 45,
+		"name" : "FRANCISCO LINARES ALCANTARA",
+		"state_id" : 4141
+	},
+	{
+		"id" : 46,
+		"name" : "JOSE ANGEL LAMAS",
+		"state_id" : 4141
+	},
+	{
+		"id" : 47,
+		"name" : "OCUMARE DE LA COSTA",
+		"state_id" : 4141
+	},
+	{
+		"id" : 48,
+		"name" : "SANTIAGO MARIÑO",
+		"state_id" : 4141
+	},
+	{
+		"id" : 49,
+		"name" : "SAN SEBASTIAN",
+		"state_id" : 4141
+	},
+	{
+		"id" : 50,
+		"name" : "MARIO BRICEÑO IRAGORRY",
+		"state_id" : 4141
+	},
+	{
+		"id" : 51,
+		"name" : "JOSE RAFAEL REVENGA",
+		"state_id" : 4141
+	},
+	{
+		"id" : 52,
+		"name" : "JOSE FELIX RIBAS",
+		"state_id" : 4141
+	},
+	{
+		"id" : 53,
+		"name" : "LIBERTADOR",
+		"state_id" : 4141
+	},
+	{
+		"id" : 54,
+		"name" : "OBISPOS",
+		"state_id" : 4142
+	},
+	{
+		"id" : 55,
+		"name" : "CRUZ PAREDES",
+		"state_id" : 4142
+	},
+	{
+		"id" : 56,
+		"name" : "EZEQUIEL ZAMORA",
+		"state_id" : 4142
+	},
+	{
+		"id" : 57,
+		"name" : "SOSA",
+		"state_id" : 4142
+	},
+	{
+		"id" : 58,
+		"name" : "ROJAS",
+		"state_id" : 4142
+	},
+	{
+		"id" : 59,
+		"name" : "ANDRES ELOY BLANCO",
+		"state_id" : 4142
+	},
+	{
+		"id" : 60,
+		"name" : "BOLIVAR",
+		"state_id" : 4142
+	},
+	{
+		"id" : 61,
+		"name" : "ANTONIO JOSE DE SUCRE",
+		"state_id" : 4142
+	},
+	{
+		"id" : 62,
+		"name" : "BARINAS",
+		"state_id" : 4142
+	},
+	{
+		"id" : 63,
+		"name" : "ARISMENDI",
+		"state_id" : 4142
+	},
+	{
+		"id" : 64,
+		"name" : "ALBERTO ARVELO TORREALBA",
+		"state_id" : 4142
+	},
+	{
+		"id" : 65,
+		"name" : "PEDRAZA",
+		"state_id" : 4142
+	},
+	{
+		"id" : 66,
+		"name" : "ROSCIO",
+		"state_id" : 4143
+	},
+	{
+		"id" : 67,
+		"name" : "CARONI",
+		"state_id" : 4143
+	},
+	{
+		"id" : 68,
+		"name" : "HERES",
+		"state_id" : 4143
+	},
+	{
+		"id" : 69,
+		"name" : "GRAN SABANA",
+		"state_id" : 4143
+	},
+	{
+		"id" : 70,
+		"name" : "CEDEÑO",
+		"state_id" : 4143
+	},
+	{
+		"id" : 71,
+		"name" : "SUCRE",
+		"state_id" : 4143
+	},
+	{
+		"id" : 72,
+		"name" : "SIFONTES",
+		"state_id" : 4143
+	},
+	{
+		"id" : 73,
+		"name" : "RAUL LEONI",
+		"state_id" : 4143
+	},
+	{
+		"id" : 74,
+		"name" : "PADRE PEDRO CHIEN",
+		"state_id" : 4143
+	},
+	{
+		"id" : 75,
+		"name" : "EL CALLAO",
+		"state_id" : 4143
+	},
+	{
+		"id" : 76,
+		"name" : "PIAR",
+		"state_id" : 4143
+	},
+	{
+		"id" : 77,
+		"name" : "MIRANDA",
+		"state_id" : 4144
+	},
+	{
+		"id" : 78,
+		"name" : "VALENCIA",
+		"state_id" : 4144
+	},
+	{
+		"id" : 79,
+		"name" : "LOS GUAYOS",
+		"state_id" : 4144
+	},
+	{
+		"id" : 80,
+		"name" : "CARLOS ARVELO",
+		"state_id" : 4144
+	},
+	{
+		"id" : 81,
+		"name" : "SAN DIEGO",
+		"state_id" : 4144
+	},
+	{
+		"id" : 82,
+		"name" : "NAGUANAGUA",
+		"state_id" : 4144
+	},
+	{
+		"id" : 83,
+		"name" : "MONTALBAN",
+		"state_id" : 4144
+	},
+	{
+		"id" : 84,
+		"name" : "SAN JOAQUIN",
+		"state_id" : 4144
+	},
+	{
+		"id" : 85,
+		"name" : "BEJUMA",
+		"state_id" : 4144
+	},
+	{
+		"id" : 86,
+		"name" : "PUERTO CABELLO",
+		"state_id" : 4144
+	},
+	{
+		"id" : 87,
+		"name" : "GUACARA",
+		"state_id" : 4144
+	},
+	{
+		"id" : 88,
+		"name" : "LIBERTADOR",
+		"state_id" : 4144
+	},
+	{
+		"id" : 89,
+		"name" : "DIEGO IBARRA",
+		"state_id" : 4144
+	},
+	{
+		"id" : 90,
+		"name" : "JUAN JOSE MORA",
+		"state_id" : 4144
+	},
+	{
+		"id" : 91,
+		"name" : "ANZOATEGUI",
+		"state_id" : 4145
+	},
+	{
+		"id" : 92,
+		"name" : "GIRARDOT",
+		"state_id" : 4145
+	},
+	{
+		"id" : 93,
+		"name" : "SAN CARLOS",
+		"state_id" : 4145
+	},
+	{
+		"id" : 94,
+		"name" : "RICAURTE",
+		"state_id" : 4145
+	},
+	{
+		"id" : 95,
+		"name" : "ROMULO GALLEGOS",
+		"state_id" : 4145
+	},
+	{
+		"id" : 96,
+		"name" : "PAO SAN JUAN BAUTISTA",
+		"state_id" : 4145
+	},
+	{
+		"id" : 97,
+		"name" : "TINACO",
+		"state_id" : 4145
+	},
+	{
+		"id" : 98,
+		"name" : "FALCON",
+		"state_id" : 4145
+	},
+	{
+		"id" : 99,
+		"name" : "LIMA BLANCO",
+		"state_id" : 4145
+	},
+	{
+		"id" : 100,
+		"name" : "CASACOIMA",
+		"state_id" : 4146
+	},
+	{
+		"id" : 101,
+		"name" : "TUCUPITA",
+		"state_id" : 4146
+	},
+	{
+		"id" : 102,
+		"name" : "PEDERNALES",
+		"state_id" : 4146
+	},
+	{
+		"id" : 103,
+		"name" : "ANTONIO DIAZ",
+		"state_id" : 4146
+	},
+	{
+		"id" : 104,
+		"name" : "LIBERTADOR",
+		"state_id" : 4148
+	},
+	{
+		"id" : 105,
+		"name" : "MIRANDA",
+		"state_id" : 4149
+	},
+	{
+		"id" : 106,
+		"name" : "URUMACO",
+		"state_id" : 4149
+	},
+	{
+		"id" : 107,
+		"name" : "SUCRE",
+		"state_id" : 4149
+	},
+	{
+		"id" : 108,
+		"name" : "PETIT",
+		"state_id" : 4149
+	},
+	{
+		"id" : 109,
+		"name" : "SAN FRANCISCO",
+		"state_id" : 4149
+	},
+	{
+		"id" : 110,
+		"name" : "UNION",
+		"state_id" : 4149
+	},
+	{
+		"id" : 111,
+		"name" : "SILVA",
+		"state_id" : 4149
+	},
+	{
+		"id" : 112,
+		"name" : "TOCOPERO",
+		"state_id" : 4149
+	},
+	{
+		"id" : 113,
+		"name" : "ZAMORA",
+		"state_id" : 4149
+	},
+	{
+		"id" : 114,
+		"name" : "PIRITU",
+		"state_id" : 4149
+	},
+	{
+		"id" : 115,
+		"name" : "MONSEÑOR ITURRIZA",
+		"state_id" : 4149
+	},
+	{
+		"id" : 116,
+		"name" : "LOS TAQUES",
+		"state_id" : 4149
+	},
+	{
+		"id" : 117,
+		"name" : "DEMOCRACIA",
+		"state_id" : 4149
+	},
+	{
+		"id" : 118,
+		"name" : "BUCHIVACOA",
+		"state_id" : 4149
+	},
+	{
+		"id" : 119,
+		"name" : "PALMA SOLA",
+		"state_id" : 4149
+	},
+	{
+		"id" : 120,
+		"name" : "FALCON",
+		"state_id" : 4149
+	},
+	{
+		"id" : 121,
+		"name" : "FEDERACION",
+		"state_id" : 4149
+	},
+	{
+		"id" : 122,
+		"name" : "DABAJURO",
+		"state_id" : 4149
+	},
+	{
+		"id" : 123,
+		"name" : "COLINA",
+		"state_id" : 4149
+	},
+	{
+		"id" : 124,
+		"name" : "BOLIVAR",
+		"state_id" : 4149
+	},
+	{
+		"id" : 125,
+		"name" : "CARIRUBANA",
+		"state_id" : 4149
+	},
+	{
+		"id" : 126,
+		"name" : "MAUROA",
+		"state_id" : 4149
+	},
+	{
+		"id" : 127,
+		"name" : "JACURA",
+		"state_id" : 4149
+	},
+	{
+		"id" : 128,
+		"name" : "CACIQUE MANAURE",
+		"state_id" : 4149
+	},
+	{
+		"id" : 129,
+		"name" : "ACOSTA",
+		"state_id" : 4149
+	},
+	{
+		"id" : 130,
+		"name" : "EL SOCORRO",
+		"state_id" : 4150
+	},
+	{
+		"id" : 131,
+		"name" : "CAMAGUAN",
+		"state_id" : 4150
+	},
+	{
+		"id" : 132,
+		"name" : "JOSÉ FELIX RIBAS",
+		"state_id" : 4150
+	},
+	{
+		"id" : 133,
+		"name" : "ORTIZ",
+		"state_id" : 4150
+	},
+	{
+		"id" : 134,
+		"name" : "CHAGUARAMAS",
+		"state_id" : 4150
+	},
+	{
+		"id" : 135,
+		"name" : "PEDRO ZARAZA",
+		"state_id" : 4150
+	},
+	{
+		"id" : 136,
+		"name" : "SANTA MARIA DE IPIRE",
+		"state_id" : 4150
+	},
+	{
+		"id" : 137,
+		"name" : "FRANCISCO DE MIRANDA",
+		"state_id" : 4150
+	},
+	{
+		"id" : 138,
+		"name" : "LEONARDO INFANTE",
+		"state_id" : 4150
+	},
+	{
+		"id" : 139,
+		"name" : "JULIÁN MELLADO",
+		"state_id" : 4150
+	},
+	{
+		"id" : 140,
+		"name" : "SAN GERONIMO DE GUAYABAL",
+		"state_id" : 4150
+	},
+	{
+		"id" : 141,
+		"name" : "JUAN GERMÁN ROSCIO",
+		"state_id" : 4150
+	},
+	{
+		"id" : 142,
+		"name" : "SAN JOSÉ DE GUARIBE",
+		"state_id" : 4150
+	},
+	{
+		"id" : 143,
+		"name" : "JOSÉ TADEO MONAGAS",
+		"state_id" : 4150
+	},
+	{
+		"id" : 144,
+		"name" : "LAS MERCEDES",
+		"state_id" : 4150
+	},
+	{
+		"id" : 145,
+		"name" : "MORAN",
+		"state_id" : 4151
+	},
+	{
+		"id" : 146,
+		"name" : "IRIBARREN",
+		"state_id" : 4151
+	},
+	{
+		"id" : 147,
+		"name" : "SIMON PLANAS",
+		"state_id" : 4151
+	},
+	{
+		"id" : 148,
+		"name" : "JIMÉNEZ",
+		"state_id" : 4151
+	},
+	{
+		"id" : 149,
+		"name" : "PALAVECINO",
+		"state_id" : 4151
+	},
+	{
+		"id" : 150,
+		"name" : "ANDRES ELOY BLANCO",
+		"state_id" : 4151
+	},
+	{
+		"id" : 151,
+		"name" : "CRESPO",
+		"state_id" : 4151
+	},
+	{
+		"id" : 152,
+		"name" : "URDANETA",
+		"state_id" : 4151
+	},
+	{
+		"id" : 153,
+		"name" : "TORRES",
+		"state_id" : 4151
+	},
+	{
+		"id" : 154,
+		"name" : "RIVAS DAVILA",
+		"state_id" : 4152
+	},
+	{
+		"id" : 155,
+		"name" : "CAMPO ELIAS",
+		"state_id" : 4152
+	},
+	{
+		"id" : 156,
+		"name" : "GUARAQUE",
+		"state_id" : 4152
+	},
+	{
+		"id" : 157,
+		"name" : "ARICAGUA",
+		"state_id" : 4152
+	},
+	{
+		"id" : 158,
+		"name" : "JULIO CESAR SALAS",
+		"state_id" : 4152
+	},
+	{
+		"id" : 159,
+		"name" : "SANTOS MARQUINA",
+		"state_id" : 4152
+	},
+	{
+		"id" : 160,
+		"name" : "CARACCIOLO PARRA OLMEDA",
+		"state_id" : 4152
+	},
+	{
+		"id" : 161,
+		"name" : "JUSTO BRICEÑO",
+		"state_id" : 4152
+	},
+	{
+		"id" : 162,
+		"name" : "SUCRE",
+		"state_id" : 4152
+	},
+	{
+		"id" : 163,
+		"name" : "TOVAR",
+		"state_id" : 4152
+	},
+	{
+		"id" : 164,
+		"name" : "RANGEL",
+		"state_id" : 4152
+	},
+	{
+		"id" : 165,
+		"name" : "LIBERTADOR",
+		"state_id" : 4152
+	},
+	{
+		"id" : 166,
+		"name" : "ANTONIO PINTO SALINAS",
+		"state_id" : 4152
+	},
+	{
+		"id" : 167,
+		"name" : "CARDENAL QUINTERO",
+		"state_id" : 4152
+	},
+	{
+		"id" : 168,
+		"name" : "PUEBLO LLANO",
+		"state_id" : 4152
+	},
+	{
+		"id" : 169,
+		"name" : "ARZOBISPO CHACON",
+		"state_id" : 4152
+	},
+	{
+		"id" : 170,
+		"name" : "OBISPO RAMOS DE LORA",
+		"state_id" : 4152
+	},
+	{
+		"id" : 171,
+		"name" : "MIRANDA",
+		"state_id" : 4152
+	},
+	{
+		"id" : 172,
+		"name" : "PADRE NOGUERA",
+		"state_id" : 4152
+	},
+	{
+		"id" : 173,
+		"name" : "ZEA",
+		"state_id" : 4152
+	},
+	{
+		"id" : 174,
+		"name" : "ALBERTO ADRIANI",
+		"state_id" : 4152
+	},
+	{
+		"id" : 175,
+		"name" : "ANDRES BELLO",
+		"state_id" : 4152
+	},
+	{
+		"id" : 176,
+		"name" : "TULIO FEBRES CORDERO",
+		"state_id" : 4152
+	},
+	{
+		"id" : 177,
+		"name" : "ACEVEDO",
+		"state_id" : 4153
+	},
+	{
+		"id" : 178,
+		"name" : "INDEPENDENCIA",
+		"state_id" : 4153
+	},
+	{
+		"id" : 179,
+		"name" : "BRION",
+		"state_id" : 4153
+	},
+	{
+		"id" : 180,
+		"name" : "CARRIZAL",
+		"state_id" : 4153
+	},
+	{
+		"id" : 181,
+		"name" : "GUAICAIPURO",
+		"state_id" : 4153
+	},
+	{
+		"id" : 182,
+		"name" : "PEDRO GUAL",
+		"state_id" : 4153
+	},
+	{
+		"id" : 183,
+		"name" : "CRISTOBAL ROJAS",
+		"state_id" : 4153
+	},
+	{
+		"id" : 184,
+		"name" : "LANDER",
+		"state_id" : 4153
+	},
+	{
+		"id" : 185,
+		"name" : "SIMON BOLIVAR",
+		"state_id" : 4153
+	},
+	{
+		"id" : 186,
+		"name" : "CHACAO",
+		"state_id" : 4153
+	},
+	{
+		"id" : 187,
+		"name" : "ANDRES BELLO",
+		"state_id" : 4153
+	},
+	{
+		"id" : 188,
+		"name" : "SUCRE",
+		"state_id" : 4153
+	},
+	{
+		"id" : 189,
+		"name" : "PAEZ",
+		"state_id" : 4153
+	},
+	{
+		"id" : 190,
+		"name" : "BUROZ",
+		"state_id" : 4153
+	},
+	{
+		"id" : 191,
+		"name" : "PLAZA",
+		"state_id" : 4153
+	},
+	{
+		"id" : 192,
+		"name" : "BARUTA",
+		"state_id" : 4153
+	},
+	{
+		"id" : 193,
+		"name" : "ZAMORA",
+		"state_id" : 4153
+	},
+	{
+		"id" : 194,
+		"name" : "PAZ CASTILLO",
+		"state_id" : 4153
+	},
+	{
+		"id" : 195,
+		"name" : "LOS SALIAS",
+		"state_id" : 4153
+	},
+	{
+		"id" : 196,
+		"name" : "URDANETA",
+		"state_id" : 4153
+	},
+	{
+		"id" : 197,
+		"name" : "EL HATILLO",
+		"state_id" : 4153
+	},
+	{
+		"id" : 198,
+		"name" : "EZEQUIEL ZAMORA",
+		"state_id" : 4154
+	},
+	{
+		"id" : 199,
+		"name" : "PIAR",
+		"state_id" : 4154
+	},
+	{
+		"id" : 200,
+		"name" : "SOTILLO",
+		"state_id" : 4154
+	},
+	{
+		"id" : 201,
+		"name" : "CEDEÑO",
+		"state_id" : 4154
+	},
+	{
+		"id" : 202,
+		"name" : "PUNCERES",
+		"state_id" : 4154
+	},
+	{
+		"id" : 203,
+		"name" : "LIBERTADOR",
+		"state_id" : 4154
+	},
+	{
+		"id" : 204,
+		"name" : "CARIPE",
+		"state_id" : 4154
+	},
+	{
+		"id" : 205,
+		"name" : "ACOSTA",
+		"state_id" : 4154
+	},
+	{
+		"id" : 206,
+		"name" : "AGUASAY",
+		"state_id" : 4154
+	},
+	{
+		"id" : 207,
+		"name" : "URACOA",
+		"state_id" : 4154
+	},
+	{
+		"id" : 208,
+		"name" : "BOLIVAR",
+		"state_id" : 4154
+	},
+	{
+		"id" : 209,
+		"name" : "SANTA BARBARA",
+		"state_id" : 4154
+	},
+	{
+		"id" : 210,
+		"name" : "MATURIN",
+		"state_id" : 4154
+	},
+	{
+		"id" : 211,
+		"name" : "VILLALBA(I.COCHE)",
+		"state_id" : 4155
+	},
+	{
+		"id" : 212,
+		"name" : "MARCANO",
+		"state_id" : 4155
+	},
+	{
+		"id" : 213,
+		"name" : "ARISMENDI",
+		"state_id" : 4155
+	},
+	{
+		"id" : 214,
+		"name" : "TUBORES",
+		"state_id" : 4155
+	},
+	{
+		"id" : 215,
+		"name" : "PENINSULA DE MACANAO",
+		"state_id" : 4155
+	},
+	{
+		"id" : 216,
+		"name" : "MARIÑO",
+		"state_id" : 4155
+	},
+	{
+		"id" : 217,
+		"name" : "GARCIA",
+		"state_id" : 4155
+	},
+	{
+		"id" : 218,
+		"name" : "ANTOLIN DEL CAMPO",
+		"state_id" : 4155
+	},
+	{
+		"id" : 219,
+		"name" : "DIAZ",
+		"state_id" : 4155
+	},
+	{
+		"id" : 220,
+		"name" : "GOMEZ",
+		"state_id" : 4155
+	},
+	{
+		"id" : 221,
+		"name" : "MANEIRO",
+		"state_id" : 4155
+	},
+	{
+		"id" : 222,
+		"name" : "AGUA BLANCA",
+		"state_id" : 4156
+	},
+	{
+		"id" : 223,
+		"name" : "PAPELON",
+		"state_id" : 4156
+	},
+	{
+		"id" : 224,
+		"name" : "SAN GENARO BOCONOITO",
+		"state_id" : 4156
+	},
+	{
+		"id" : 225,
+		"name" : "SANTA ROSALIA",
+		"state_id" : 4156
+	},
+	{
+		"id" : 226,
+		"name" : "TUREN",
+		"state_id" : 4156
+	},
+	{
+		"id" : 227,
+		"name" : "GUANARE",
+		"state_id" : 4156
+	},
+	{
+		"id" : 228,
+		"name" : "MONSEÑOR JOSÉ VICENTE DE UNDA",
+		"state_id" : 4156
+	},
+	{
+		"id" : 229,
+		"name" : "ESTELLER",
+		"state_id" : 4156
+	},
+	{
+		"id" : 230,
+		"name" : "SUCRE",
+		"state_id" : 4156
+	},
+	{
+		"id" : 231,
+		"name" : "ARAURE",
+		"state_id" : 4156
+	},
+	{
+		"id" : 232,
+		"name" : "OSPINO",
+		"state_id" : 4156
+	},
+	{
+		"id" : 233,
+		"name" : "PAEZ",
+		"state_id" : 4156
+	},
+	{
+		"id" : 234,
+		"name" : "GUANARITO",
+		"state_id" : 4156
+	},
+	{
+		"id" : 235,
+		"name" : "SAN RAFAEL DE ONOTO",
+		"state_id" : 4156
+	},
+	{
+		"id" : 236,
+		"name" : "MONTES",
+		"state_id" : 4157
+	},
+	{
+		"id" : 237,
+		"name" : "MARIÑO",
+		"state_id" : 4157
+	},
+	{
+		"id" : 238,
+		"name" : "ANDRES MATA",
+		"state_id" : 4157
+	},
+	{
+		"id" : 239,
+		"name" : "BERMUDEZ",
+		"state_id" : 4157
+	},
+	{
+		"id" : 240,
+		"name" : "ANDRES ELOY BLANCO",
+		"state_id" : 4157
+	},
+	{
+		"id" : 241,
+		"name" : "BENITEZ",
+		"state_id" : 4157
+	},
+	{
+		"id" : 242,
+		"name" : "RIBERO",
+		"state_id" : 4157
+	},
+	{
+		"id" : 243,
+		"name" : "MEJIA",
+		"state_id" : 4157
+	},
+	{
+		"id" : 244,
+		"name" : "SUCRE",
+		"state_id" : 4157
+	},
+	{
+		"id" : 245,
+		"name" : "BOLIVAR",
+		"state_id" : 4157
+	},
+	{
+		"id" : 246,
+		"name" : "LIBERTADOR",
+		"state_id" : 4157
+	},
+	{
+		"id" : 247,
+		"name" : "VALDEZ",
+		"state_id" : 4157
+	},
+	{
+		"id" : 248,
+		"name" : "ARISMENDI",
+		"state_id" : 4157
+	},
+	{
+		"id" : 249,
+		"name" : "CAJIGAL",
+		"state_id" : 4157
+	},
+	{
+		"id" : 250,
+		"name" : "CRUZ SALMERÓN ACOSTA",
+		"state_id" : 4157
+	},
+	{
+		"id" : 251,
+		"name" : "JAUREGUI",
+		"state_id" : 4158
+	},
+	{
+		"id" : 252,
+		"name" : "FERNANDEZ FEO",
+		"state_id" : 4158
+	},
+	{
+		"id" : 253,
+		"name" : "LIBERTAD",
+		"state_id" : 4158
+	},
+	{
+		"id" : 254,
+		"name" : "FRANCISCO DE MIRANDA",
+		"state_id" : 4158
+	},
+	{
+		"id" : 255,
+		"name" : "SAN JUDAS TADEO",
+		"state_id" : 4158
+	},
+	{
+		"id" : 256,
+		"name" : "MICHELENA",
+		"state_id" : 4158
+	},
+	{
+		"id" : 257,
+		"name" : "PEDRO MARIA UREÑA",
+		"state_id" : 4158
+	},
+	{
+		"id" : 258,
+		"name" : "JUNIN",
+		"state_id" : 4158
+	},
+	{
+		"id" : 259,
+		"name" : "SIMON RODRIGUEZ",
+		"state_id" : 4158
+	},
+	{
+		"id" : 260,
+		"name" : "SAMUEL DARÍO MALDONADO",
+		"state_id" : 4158
+	},
+	{
+		"id" : 261,
+		"name" : "SEBORUCO",
+		"state_id" : 4158
+	},
+	{
+		"id" : 262,
+		"name" : "PANAMERICANO",
+		"state_id" : 4158
+	},
+	{
+		"id" : 263,
+		"name" : "GARCIA DE HEVIA",
+		"state_id" : 4158
+	},
+	{
+		"id" : 264,
+		"name" : "ANDRÉS BELLO",
+		"state_id" : 4158
+	},
+	{
+		"id" : 265,
+		"name" : "CORDOBA",
+		"state_id" : 4158
+	},
+	{
+		"id" : 266,
+		"name" : "BOLIVAR",
+		"state_id" : 4158
+	},
+	{
+		"id" : 267,
+		"name" : "JOSE MARIA VARGAS",
+		"state_id" : 4158
+	},
+	{
+		"id" : 268,
+		"name" : "CARDENAS",
+		"state_id" : 4158
+	},
+	{
+		"id" : 269,
+		"name" : "URIBANTE",
+		"state_id" : 4158
+	},
+	{
+		"id" : 270,
+		"name" : "ANTONIO ROMULO COSTA",
+		"state_id" : 4158
+	},
+	{
+		"id" : 271,
+		"name" : "SUCRE",
+		"state_id" : 4158
+	},
+	{
+		"id" : 272,
+		"name" : "AYACUCHO",
+		"state_id" : 4158
+	},
+	{
+		"id" : 273,
+		"name" : "SAN CRISTOBAL",
+		"state_id" : 4158
+	},
+	{
+		"id" : 274,
+		"name" : "GUASIMOS",
+		"state_id" : 4158
+	},
+	{
+		"id" : 275,
+		"name" : "LIBERTADOR",
+		"state_id" : 4158
+	},
+	{
+		"id" : 276,
+		"name" : "RAFAEL URDANETA",
+		"state_id" : 4158
+	},
+	{
+		"id" : 277,
+		"name" : "LOBATERA",
+		"state_id" : 4158
+	},
+	{
+		"id" : 278,
+		"name" : "INDEPENDENCIA",
+		"state_id" : 4158
+	},
+	{
+		"id" : 279,
+		"name" : "TORBES",
+		"state_id" : 4158
+	},
+	{
+		"id" : 280,
+		"name" : "VALERA",
+		"state_id" : 4159
+	},
+	{
+		"id" : 281,
+		"name" : "TRUJILLO",
+		"state_id" : 4159
+	},
+	{
+		"id" : 282,
+		"name" : "ESCUQUE",
+		"state_id" : 4159
+	},
+	{
+		"id" : 283,
+		"name" : "BOCONO",
+		"state_id" : 4159
+	},
+	{
+		"id" : 284,
+		"name" : "CARACHE",
+		"state_id" : 4159
+	},
+	{
+		"id" : 285,
+		"name" : "SUCRE",
+		"state_id" : 4159
+	},
+	{
+		"id" : 286,
+		"name" : "CANDELARIA",
+		"state_id" : 4159
+	},
+	{
+		"id" : 287,
+		"name" : "PAMPAN",
+		"state_id" : 4159
+	},
+	{
+		"id" : 288,
+		"name" : "ANDRES BELLO",
+		"state_id" : 4159
+	},
+	{
+		"id" : 289,
+		"name" : "BOLIVAR",
+		"state_id" : 4159
+	},
+	{
+		"id" : 290,
+		"name" : "SAN RAFAEL CARVAJAL",
+		"state_id" : 4159
+	},
+	{
+		"id" : 291,
+		"name" : "MONTE CARMELO",
+		"state_id" : 4159
+	},
+	{
+		"id" : 292,
+		"name" : "JUAN VICENTE CAMPO ELIAS",
+		"state_id" : 4159
+	},
+	{
+		"id" : 293,
+		"name" : "PAMPANITO",
+		"state_id" : 4159
+	},
+	{
+		"id" : 294,
+		"name" : "LA CEIBA",
+		"state_id" : 4159
+	},
+	{
+		"id" : 295,
+		"name" : "JOSE FELIPE MÁRQUEZ CAÑIZAL",
+		"state_id" : 4159
+	},
+	{
+		"id" : 296,
+		"name" : "RAFAEL RANGEL",
+		"state_id" : 4159
+	},
+	{
+		"id" : 297,
+		"name" : "MIRANDA",
+		"state_id" : 4159
+	},
+	{
+		"id" : 298,
+		"name" : "MOTATAN",
+		"state_id" : 4159
+	},
+	{
+		"id" : 299,
+		"name" : "URDANETA",
+		"state_id" : 4159
+	},
+	{
+		"id" : 300,
+		"name" : "VARGAS",
+		"state_id" : 4160
+	},
+	{
+		"id" : 301,
+		"name" : "SAN FELIPE",
+		"state_id" : 4161
+	},
+	{
+		"id" : 302,
+		"name" : "JOSE ANTONIO PAEZ",
+		"state_id" : 4161
+	},
+	{
+		"id" : 303,
+		"name" : "BOLIVAR",
+		"state_id" : 4161
+	},
+	{
+		"id" : 304,
+		"name" : "URACHICHE",
+		"state_id" : 4161
+	},
+	{
+		"id" : 305,
+		"name" : "NIRGUA",
+		"state_id" : 4161
+	},
+	{
+		"id" : 306,
+		"name" : "COCOROTE",
+		"state_id" : 4161
+	},
+	{
+		"id" : 307,
+		"name" : "INDEPENDENCIA",
+		"state_id" : 4161
+	},
+	{
+		"id" : 308,
+		"name" : "LA TRINIDAD",
+		"state_id" : 4161
+	},
+	{
+		"id" : 309,
+		"name" : "SUCRE",
+		"state_id" : 4161
+	},
+	{
+		"id" : 310,
+		"name" : "BRUZUAL",
+		"state_id" : 4161
+	},
+	{
+		"id" : 311,
+		"name" : "VEROES",
+		"state_id" : 4161
+	},
+	{
+		"id" : 312,
+		"name" : "PEÑA",
+		"state_id" : 4161
+	},
+	{
+		"id" : 313,
+		"name" : "MANUEL MONGE",
+		"state_id" : 4161
+	},
+	{
+		"id" : 314,
+		"name" : "ARISTIDES BASTIDAS",
+		"state_id" : 4161
+	},
+	{
+		"id" : 315,
+		"name" : "FRANCISCO JAVIER PULGAR",
+		"state_id" : 4162
+	},
+	{
+		"id" : 316,
+		"name" : "SANTA RITA",
+		"state_id" : 4162
+	},
+	{
+		"id" : 317,
+		"name" : "CABIMAS",
+		"state_id" : 4162
+	},
+	{
+		"id" : 318,
+		"name" : "SAN FRANCISCO",
+		"state_id" : 4162
+	},
+	{
+		"id" : 319,
+		"name" : "LAGUNILLAS",
+		"state_id" : 4162
+	},
+	{
+		"id" : 320,
+		"name" : "JESUS MARÍA SEMPRUN",
+		"state_id" : 4162
+	},
+	{
+		"id" : 321,
+		"name" : "JESUS ENRIQUE LOSSADA",
+		"state_id" : 4162
+	},
+	{
+		"id" : 322,
+		"name" : "SIMON BOLIVAR",
+		"state_id" : 4162
+	},
+	{
+		"id" : 323,
+		"name" : "CATATUMBO",
+		"state_id" : 4162
+	},
+	{
+		"id" : 324,
+		"name" : "LA CAÑADA DE URDANETA",
+		"state_id" : 4162
+	},
+	{
+		"id" : 325,
+		"name" : "VALMORE RODRIGUEZ",
+		"state_id" : 4162
+	},
+	{
+		"id" : 326,
+		"name" : "BARALT",
+		"state_id" : 4162
+	},
+	{
+		"id" : 327,
+		"name" : "MARACAIBO",
+		"state_id" : 4162
+	},
+	{
+		"id" : 328,
+		"name" : "PAEZ",
+		"state_id" : 4162
+	},
+	{
+		"id" : 329,
+		"name" : "ALMIRANTE PADILLA",
+		"state_id" : 4162
+	},
+	{
+		"id" : 330,
+		"name" : "MIRANDA",
+		"state_id" : 4162
+	},
+	{
+		"id" : 331,
+		"name" : "COLON",
+		"state_id" : 4162
+	},
+	{
+		"id" : 332,
+		"name" : "SUCRE",
+		"state_id" : 4162
+	},
+	{
+		"id" : 333,
+		"name" : "ROSARIO DE PERIJA",
+		"state_id" : 4162
+	},
+	{
+		"id" : 334,
+		"name" : "MACHIQUES DE PERIJÁ",
+		"state_id" : 4162
+	},
+	{
+		"id" : 335,
+		"name" : "MARA",
+		"state_id" : 4162
+	},
+	{
+		"id" : 336,
+		"name" : "DEPENDENCIAS FEDERALES",
+		"state_id" : 4147
+	}
+]}
