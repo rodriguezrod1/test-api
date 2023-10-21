@@ -38,9 +38,7 @@ class ProductTest extends TestCase
 
     public function test_can_create_product()
     {
-        $productData = [
-            'name' => 'Product 1',
-        ];
+        $productData = ['name' => 'Product 1', 'name' => 'Product 2'];
 
         $response = $this->postJson('/api/products', $productData);
 
